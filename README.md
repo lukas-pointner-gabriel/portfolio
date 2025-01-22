@@ -1,19 +1,19 @@
 #### Technical Skills:Python, ...
 
-## Education
-**Doctor's Degree in Drive Technology**
+# Education
+**Doctor's Degree in Drive Technology** (_2018 -- ongoing_)
 
-_Gear Research Center (FZG), Technical University of Munich, Germany_ (_2018 -- ongoing_)
+_Gear Research Center (FZG), Technical University of Munich, Germany_
 
-**Master's Degree in Mechanical Engineering**
+**Master's Degree in Mechanical Engineering** (_2015 -- 2018_)
 
-_Technical University of Munich_ (_2015 -- 2018_)
+_Technical University of Munich_
 
-**Bachelor's Degree in Mechanical Engineering**
+**Bachelor's Degree in Mechanical Engineering** (_2012 -- 2015_)
 
-_Technical University of Vienna_ (_2012 -- 2015_)
+_Technical University of Vienna_
 
-## Professional Experience
+# Professional Experience
 **Research Associate at Gear Research Center (FZG)**
 - XXX
 - YYY
@@ -26,9 +26,9 @@ _Technical University of Vienna_ (_2012 -- 2015_)
 - XXX
 - YYY
 
-## Projects
+# Projects
 
-### Electric Drive Units: A Set-up for
+## Electric Drive Units: A Set-Up for Investigating Function, Efficiency, and Dynamics
 [Publication](https://www.mdpi.com/2624-8921/6/3/67)
 
 ![XXX](/assets/Portraitfoto_LukasPointner.jpg)
