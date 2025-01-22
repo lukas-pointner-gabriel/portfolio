@@ -7,6 +7,8 @@
 
 **Bachelor's Degree in Mechanical Engineering:** Technical University of Vienna (_2012 -- 2015_)
 
+**Technical College in Automation Technology:** Higher Technical College Neufelden (_2006 -- 2011_)
+
 # Professional Experience
 **Team Lead Data-driven Modeling in Drive Technology:**
 
@@ -50,7 +52,7 @@ Munich (_Since 08/2018_)
 ### A Set-Up for Investigating Function, Efficiency, and Dynamics
 [Publication link](https://www.mdpi.com/2624-8921/6/3/67)
 
+![XXX](/assets/Bild_LinkedIn_Post.png)
+
 ### Investigations on the vibration behavior of high-speed planetary gearbox
 [Publication link](https://link.springer.com/article/10.1007/s10010-024-00727-5)
-
-![XXX](/assets/Bild_LinkedIn_Post.png)
