@@ -1,9 +1,9 @@
 #### Technical Skills:Python, ...
 
 ## Education
-- Ph.D., Drive Technology, Technical University of Munich (_February 2025_)
-- M.Sc., Mechanical Engineering, Technical University of Munich (_February 2025_)
-- B.Sc., Mechanical Engineering, Technical University of Vienna (_February 2025_)
+- Doctor's Degree in Drive Technology, Gear Research Center (FZG), Technical University of Munich, Germany (_2018 -- ongoing_)
+- Master's Degree in Mechanical Engineering, Technical University of Munich, Germany (_2015 -- 2018_)
+- Bachelor's Degree in Mechanical Engineering, Technical University of Vienna, Austria (_2012 -- 2015_)
 
 ## Professional Experience
 **Research Associate at Gear Research Center (FZG)**
