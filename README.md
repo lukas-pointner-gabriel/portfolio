@@ -10,7 +10,7 @@
 # Professional Experience
 **Team Lead Data-driven Modeling in Drive Technology:**
 
-Gear Research Center (FZG), Technical University of Munich (_Since 11/2024_)**
+Gear Research Center (FZG), Technical University of Munich (_Since 11/2024_)
 
 - XXX
 - YYY
@@ -18,7 +18,7 @@ Gear Research Center (FZG), Technical University of Munich (_Since 11/2024_)**
 
 **Research Associate in Drive Technology Research**
 
-Gear Research Center (FZG), Technical University of Munich (_Since 08/2018_)**
+Gear Research Center (FZG), Technical University of Munich (_Since 08/2018_)
 
 - XXX
 - YYY
@@ -26,7 +26,7 @@ Gear Research Center (FZG), Technical University of Munich (_Since 08/2018_)**
 
 **Freelance Expert in Drive Technology**
 
-Munich (_Since 08/2018_)**
+Munich (_Since 08/2018_)
 
 - XXX
 - YYY
@@ -42,11 +42,15 @@ Munich (_Since 08/2018_)**
 - XXX
 - YYY
 
-# Projects
+# Projects and Publications
 
 ## Development of Pick-and-Place Robot
 
-## Electric Drive Units: A Set-Up for Investigating Function, Efficiency, and Dynamics
-[Publication](https://www.mdpi.com/2624-8921/6/3/67)
+## Researching Electric Drive Units
+### A Set-Up for Investigating Function, Efficiency, and Dynamics
+[Publication link](https://www.mdpi.com/2624-8921/6/3/67)
+
+### Investigations on the vibration behavior of high-speed planetary gearbox
+[Publication link](https://link.springer.com/article/10.1007/s10010-024-00727-5)
 
 ![XXX](/assets/Portraitfoto_LukasPointner.jpg)
