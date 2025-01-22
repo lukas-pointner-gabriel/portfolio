@@ -53,4 +53,4 @@ Munich (_Since 08/2018_)
 ### Investigations on the vibration behavior of high-speed planetary gearbox
 [Publication link](https://link.springer.com/article/10.1007/s10010-024-00727-5)
 
-![XXX](/assets/Portraitfoto_LukasPointner.jpg)
+![XXX](/assets/Bild_LinkedIn_Post.png)
