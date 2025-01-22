@@ -1,7 +1,7 @@
 title: Lukas Pointner-Gabriel
 logo: /assets/Portraitfoto_LukasPointner.jpg
 description: XXX
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-cayman
 
 # themes: cayman, leap day, minima, minimal, modernist, slate, time machine
