@@ -35,12 +35,24 @@ Munich (_Since 08/2018_)
 - YYY
 - ZZZ
 
+**Assistant to Management Board**
+
+Scientific Society for Product Development (WiGeP), Munich (_01/2020 -- 12/2021_)
+
+- XXX
+- YYY
+- ZZZ
+
 **Research Assistant in Drive Technology Research**
+
+Gear Research Center (FZG), Technical University of Munich (_06/2016 -- 10/2017_)
 
 - XXX
 - YYY
 
 **Propulsion and Testing Engineer**
+
+TUM Hyperloop, Munich (_02/2017 -- 09/2017_)
 
 - XXX
 - YYY
