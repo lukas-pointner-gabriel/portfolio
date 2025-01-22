@@ -1,9 +1,7 @@
-# Lukas Pointner-Gabriel
-
 #### Technical Skills:Python, ...
 
 ## Education
-- Ph.D., Mechanical Engineering, Technical University of Munich (_February 2025_)
+- Ph.D., Drive Technology, Technical University of Munich (_February 2025_)
 - M.Sc., Mechanical Engineering, Technical University of Munich (_February 2025_)
 - B.Sc., Mechanical Engineering, Technical University of Vienna (_February 2025_)
 
