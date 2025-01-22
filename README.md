@@ -1,4 +1,4 @@
-# Mechanical Engineer
+# Lukas Pointner-Gabriel
 
 #### Technical Skills: Python, ...
 
