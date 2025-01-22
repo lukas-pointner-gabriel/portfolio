@@ -1,4 +1,5 @@
-#### Technical Skills:Python, ...
+#### Technical Skills
+MATLAB/Simulink, Catia V5, Inventor, Solid Edge, Python, LaTeX, Simpack, Simerics MP+, Ansys Mechanical
 
 # Education
 **Doctor's Degree in Drive Technology:** Technical University of Munich (_Since 2018_)
