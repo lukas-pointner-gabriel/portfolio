@@ -12,11 +12,11 @@
 - XXX
 - YYY
 
-- **Research Assistant at Gear Research Center (FZG)
+**Research Assistant at Gear Research Center (FZG)
 - XXX
 - YYY
 
-- **Propulsion and Testing Engineer
+**Propulsion and Testing Engineer
 - XXX
 - YYY
 
