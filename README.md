@@ -65,6 +65,10 @@ TUM Hyperloop, Munich (_02/2017 -- 09/2017_)
 ### A Set-Up for Investigating Function, Efficiency, and Dynamics
 [Publication link](https://www.mdpi.com/2624-8921/6/3/67)
 
+## Researching Shifting Elements for Automatic Transmissions
+[Publication link](https://www.mdpi.com/2624-8921/6/3/67)
+
+
 ![XXX](/assets/Bild_LinkedIn_Post.png)
 
 ### Investigations on the vibration behavior of high-speed planetary gearbox
