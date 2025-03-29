@@ -92,7 +92,7 @@ _Picture of developed, built, and operated drive unit test rig_
     -	Programmed graphical user interface for user-oriented usage
   -	Published eight research articles in the field (see appendix)
 
-<video width="300" controls>
+<video controls>
   <source src="assets/LinkedIn_Post_var2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -123,7 +123,7 @@ _MBS model of 9-speed automatic transmission_
     -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with approx. 8 µm accuracy
   -	Published three research articles in the field (see appendix)
 
-<video width="300" controls>
+<video controls>
   <source src="assets/LinkedIn_Posts.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -143,7 +143,7 @@ _Picture of developed Hyperloop pod_
     -	Manufactured test rig components by milling, turning, and water-jet cutting
     -	Developed test programs and conducted test runs
    
-<iframe width="300" src="https://www.youtube.com/embed/pm48hdYskt0?si=lVbS6qTajxOYJMCW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/pm48hdYskt0?si=lVbS6qTajxOYJMCW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![XXX](/assets/Picture_Hyperloop_team.png)
 
