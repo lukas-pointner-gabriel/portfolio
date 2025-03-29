@@ -40,6 +40,9 @@
 
 # Professional Experience
 ## Experience in the Field of Drive Units
+
+![XXX](/assets/Rendering_drive_unit.jpg)
+
   -	Developed high-speed multi-speed drive unit with maximum motor speed of 50.000 rpm
     -	Developed innovative drive unit architecture, leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
     -	Dimensioned and optimized gearset components (gears, rotating shafts, bearings, differential, and sealings)
@@ -56,7 +59,8 @@
     -	Improved gearset efficiency by 2.2% through mono fluid circuit (i.e., cooling or lubricating power electronics, electric motor, and gearset within a single circuit)
   -	Published four research articles in the field (see appendix)
 
-![XXX](/assets/Test.png)
+![XXX](/assets/Photograph_drive_unit.jpg)
+![XXX](/assets/Photograph_drive_unit_test_rig.jpg)
 
 ## Researching Electric Drive Units
 ### A Set-Up for Investigating Function, Efficiency, and Dynamics
