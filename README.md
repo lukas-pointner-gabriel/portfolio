@@ -1,13 +1,16 @@
 ![XXX](/assets/Portraitfoto_LukasPointner.jpg)
 
 # Education
-- **Doctor’s Degree in Drive Technology:** Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
+- **Doctor’s Degree in Drive Technology**
+  Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
 
-- **Master’s Degree in Mechanical Engineering:** Technical University of Munich, Germany (_2015 -- 2018_)
+- **Master’s Degree in Mechanical Engineering**
+  Technical University of Munich, Germany (_2015 -- 2018_)
 
-- **Bachelor's Degree in Mechanical Engineering:** Technical University of Vienna, Austria (_2012 -- 2015_)
+- **Bachelor's Degree in Mechanical Engineering**
+  Technical University of Vienna, Austria (_2012 -- 2015_)
 
-- **Technical College Degree in Automation Technology:** Technical College of Neufelden, Austria (_2006 -- 2011_)
+- **Technical College Degree in Automation Technology** Technical College of Neufelden, Austria (_2006 -- 2011_)
 
 # Skills
 **Soft Skills**
