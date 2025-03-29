@@ -41,6 +41,7 @@
 # Professional Experience
 ## Experience in the Field of Drive Units
 ![XXX](/assets/Rendering_drive_unit.png)
+
 _Rendering of developed drive unit_
 
   -	Developed high-speed multi-speed drive unit with maximum motor speed of 50.000 rpm
@@ -60,9 +61,11 @@ _Rendering of developed drive unit_
   -	Published four research articles in the field (see appendix)
 
 ![XXX](/assets/Picture_drive_unit.jpg)
+
 _Picture of developed, built, and operated drive unit_
 
 ![XXX](/assets/Picture_drive_unit_test_rig.jpg)
+
 _Picture of developed, built, and operated drive unit test rig_
 
 ## Experience in the Field of Wet Brake and Clutch Systems
@@ -81,6 +84,7 @@ _Picture of developed, built, and operated drive unit test rig_
 
 ## Further Experience in Drive Technology
 ![XXX](/assets/MBS_model_automatic_transmission.jpg)
+
 _MBS model of 9-speed automatic transmission_
   -	Investigated synchronizers for manual transmissions
     - Developed test programs for investigating friction and damage behavior
@@ -94,6 +98,7 @@ _MBS model of 9-speed automatic transmission_
   -	Published two research articles in the field (see appendix)
 
 ![XXX](/assets/MBS_model_shifting_element.jpg)
+
 _MBS model of shifting element_
 
 ## Experience in the Field of Machine Learning and Computer Vision
@@ -107,6 +112,7 @@ _MBS model of shifting element_
 
 ## Experience in Hyperloop
 ![XXX](/assets/Picture_Hyperloop_pod.jpg)
+
 _Picture of developed Hyperloop pod_
   -	Led design of the propulsion unit of an Hyperloop pod
     -	Developed and designed a propulsion unit for realizing 400 km/h pod speed
@@ -118,16 +124,20 @@ _Picture of developed Hyperloop pod_
     -	Developed test programs and conducted test runs
 
 ![XXX](/assets/Picture_Hyperloop_team.png)
+
 _Picture winning Hyperloop team (Los Angeles, CA, 2017)_
 
 ![XXX](/assets/Rendering_propulsion_unit.jpg)
+
 _Rendering of propulsion unit in test configuration_
 
 ![XXX](/assets/Rendering_test_rig.png)
+
 _Rendering of developed and operated test rig_
 
 ## Further Experience in the Field of Engineering
 ![XXX](/assets/Rendering_tripod.png)
+
 _Rendering of developed, built, and operated pick-and-place robot (tripod)_
   -	Developed a pick-and-place robot (tripod)
     -	Led a team of three engineers in the development, design, and programming of the robot
