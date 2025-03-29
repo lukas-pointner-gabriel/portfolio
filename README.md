@@ -80,8 +80,8 @@ _Photograph of developed, built, and operated drive unit test rig_
   -	Published eight research articles in the field (see appendix)
 
 ## Further Experience in Drive Technology
-![XXX](/assets/Rendering_drive_unit.png)
-_Rendering of developed drive unit_
+![XXX](/assets/MBS_model_automatic_transmission.jpg)
+_MBS model of 9-speed automatic transmission_
   -	Investigated synchronizers for manual transmissions
     - Developed test programs for investigating friction and damage behavior
     -	Conducted experimental tests on component test rigs
@@ -93,9 +93,19 @@ _Rendering of developed drive unit_
     -	Developed an MBS model of a 9-speed automatic transmission to analyze impact of form-fit shift on dynamics and comfort
   -	Published two research articles in the field (see appendix)
 
+![XXX](/assets/MBS_model_shifting_element.jpg)
+_MBS model of shifting element_
+
+## Experience in the Field of Machine Learning and Computer Vision
+  -	Developed a drag loss prediction model of wet brakes and clutches
+    -	Developed model enables predictions within split-seconds and an MRE of maximum 14.2 %
+    -	Automotive suppliers and OEMs successfully use model for product development
+  -	Developed an image-based method for measuring plate movements in disengaged wet brakes
+    -	Developed low-cost setup of approx. $500 which can be universally applied to any brake system and does not require any distance sensors
+    -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with approx. 8 µm accuracy
+  -	Published three research articles in the field (see appendix)
 
 
-## Researching Electric Drive Units
 ### A Set-Up for Investigating Function, Efficiency, and Dynamics
 [Publication link](https://www.mdpi.com/2624-8921/6/3/67)
 
