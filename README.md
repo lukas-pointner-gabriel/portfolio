@@ -10,6 +10,27 @@
 - **Technical College Degree in Automation Technology:** Technical College of Neufelden, Austria (_2006 -- 2011_)
 
 # Skills
+**Soft Skills**
+-	Languages: German (Native) and English (Fluent)
+-	Leadership: Currently leading a team of five researchers in the field of data-driven modeling
+-	Presentation: Regularly presented research results to international expert audience
+-	Project management: Participated in SCRUM project management, start-up, and business training
+-	Organization: Assisted CEO of Scientific Society for Product Development (WiGeP)
+
+**Tools and Software**
+-	Programming: MATLAB/Simulink and Python
+-	CAE: CATIA V5, Solid Edge, Autodesk Inventor, ANSYS Mechanical, SIMPACK, and Simerics MP+
+-	Machine Learning and Computer Vision: Tensorflow, scikit-learn, GPflow, and OpenCV
+-	Other: MS Office, LaTeX, Git, LabVIEW, Mathcad, and FZG driveline simulation software
+
+**Industry-Specific Experience and Certification**
+- Consulted OEMs and Tier 1 from automotive sector
+-	Experience in manufacturing engineering (milling, turning, welding, and sheet metal forming)
+-	Training and certification in quality management (ISO 9001)
+-	Acquisition of research funds in the field of dive technology
+-	Teaching student basics in machine design
+-	15 years of experience in CAD, three years in FEM and MBS, and two years in CFD
+
 
 # Professional Experience
 **Team Lead Data-driven Modeling in Drive Technology:**
