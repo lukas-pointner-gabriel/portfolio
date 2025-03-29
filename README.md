@@ -79,6 +79,10 @@ _Picture of developed, built, and operated drive unit_
 _Picture of developed, built, and operated drive unit test rig_
 
 ## Experience in the Field of Wet Brake and Clutch Systems
+![XXX](/assets/Rendering_drive_unit.png)
+
+_Rendering of developed drive unit_
+
   -	Dimensioned wet brake system for electric vehicles
     -	Analyzed possible driveline topologies with focus on wet brakes 
     -	Dimensioned wet brake system integrated into drive unit avoiding brake dust emissions, requiring zero maintenance, and reducing unsprung wheel mass
