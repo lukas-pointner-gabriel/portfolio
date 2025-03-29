@@ -83,6 +83,11 @@ _Picture of developed, built, and operated drive unit test rig_
 
 _Oil flow in gap and grooves of disengaged wet brake_
 
+<video width="600" controls>
+  <source src="assets/LinkedIn_Post_var2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
   -	Dimensioned wet brake system for electric vehicles
     -	Analyzed possible driveline topologies with focus on wet brakes 
     -	Dimensioned wet brake system integrated into drive unit avoiding brake dust emissions, requiring zero maintenance, and reducing unsprung wheel mass
