@@ -114,10 +114,6 @@ _MBS model of 9-speed automatic transmission_
     -	Developed an MBS model of a 9-speed automatic transmission to analyze impact of form-fit shift on dynamics and comfort
   -	Published two research articles in the field (see appendix)
 
-![XXX](/assets/MBS_model_shifting_element.jpg)
-
-_MBS model of shifting element_
-
 ## Experience in the Field of Machine Learning and Computer Vision
   -	Developed a drag loss prediction model of wet brakes and clutches
     -	Developed model enables predictions within split-seconds and an MRE of maximum 14.2 %
@@ -146,6 +142,8 @@ _Picture of developed Hyperloop pod_
     -	Developed test rig for investigations under near-real conditions like gaps on test track
     -	Manufactured test rig components by milling, turning, and water-jet cutting
     -	Developed test programs and conducted test runs
+   
+<iframe width="300" src="https://www.youtube.com/watch?v=pm48hdYskt0" frameborder="0" allowfullscreen></iframe>
 
 ![XXX](/assets/Picture_Hyperloop_team.png)
 
