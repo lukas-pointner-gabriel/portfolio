@@ -10,7 +10,8 @@
 - **Bachelor's Degree in Mechanical Engineering**
   Technical University of Vienna, Austria (_2012 -- 2015_)
 
-- **Technical College Degree in Automation Technology** Technical College of Neufelden, Austria (_2006 -- 2011_)
+- **Technical College Degree in Automation Technology**
+  Technical College of Neufelden, Austria (_2006 -- 2011_)
 
 # Skills
 **Soft Skills**
