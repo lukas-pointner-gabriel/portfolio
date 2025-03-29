@@ -31,6 +31,13 @@
 -	Teaching student basics in machine design
 -	15 years of experience in CAD, three years in FEM and MBS, and two years in CFD
 
+# Awards and Recognitions
+-	Winner Hanns-Voith-Foundation Award (Category: Drive Technology) in 2019
+-	Winner CTI Young Drive Experts Award in 2018
+-	Winner SpaceX Hyperloop Pod Competition II in 2017
+-	Performance Scholarship Technical University of Munich in 2016 and 2017
+-	Performance Scholarship Technical University of Vienna in 2013 and 2015
+
 
 # Professional Experience
 **Team Lead Data-driven Modeling in Drive Technology:**
