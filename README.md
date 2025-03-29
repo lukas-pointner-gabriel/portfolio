@@ -56,7 +56,7 @@
     -	Improved gearset efficiency by 2.2% through mono fluid circuit (i.e., cooling or lubricating power electronics, electric motor, and gearset within a single circuit)
   -	Published four research articles in the field (see appendix)
 
-
+![XXX](/assets/Test.png)
 
 ## Researching Electric Drive Units
 ### A Set-Up for Investigating Function, Efficiency, and Dynamics
@@ -64,9 +64,6 @@
 
 ## Researching Shifting Elements for Automatic Transmissions
 [Publication link](https://www.mdpi.com/2624-8921/6/3/67)
-
-
-![XXX](/assets/Bild_LinkedIn_Post.png)
 
 ### Investigations on the vibration behavior of high-speed planetary gearbox
 [Publication link](https://link.springer.com/article/10.1007/s10010-024-00727-5)
