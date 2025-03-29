@@ -1,7 +1,9 @@
 ![XXX](/assets/Portraitfoto_LukasPointner.jpg)
 
 # Education
-  - **Doctor’s Degree in Drive Technology** - Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
+  - **Doctor’s Degree in Drive Technology**
+  
+    Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
 
   - **Master’s Degree in Mechanical Engineering** - Technical University of Munich, Germany (_2015 -- 2018_)
 
