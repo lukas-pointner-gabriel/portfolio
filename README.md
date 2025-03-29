@@ -61,7 +61,10 @@ _Rendering of developed drive unit_
   -	Published four research articles in the field (see appendix)
 
 ![XXX](/assets/Photograph_drive_unit.jpg)
+_Photograph of developed, built, and operated drive unit_
+
 ![XXX](/assets/Photograph_drive_unit_test_rig.jpg)
+_Photograph of developed, built, and operated drive unit test rig_
 
 ## Researching Electric Drive Units
 ### A Set-Up for Investigating Function, Efficiency, and Dynamics
