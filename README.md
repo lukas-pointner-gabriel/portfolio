@@ -81,7 +81,7 @@ _Picture of developed, built, and operated drive unit test rig_
 ## Experience in the Field of Wet Brake and Clutch Systems
 ![XXX](/assets/LinkedIn_Post_var2.mp4)
 
-_Rendering of developed drive unit_
+_Oil flow in gap and grooves of disengaged wet brake_
 
   -	Dimensioned wet brake system for electric vehicles
     -	Analyzed possible driveline topologies with focus on wet brakes 
