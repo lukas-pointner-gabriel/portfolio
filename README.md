@@ -97,7 +97,7 @@ _Picture of developed, built, and operated drive unit test rig_
 %  Your browser does not support the video tag.
 %</video>
 
-_Oil flow in gap and grooves of disengaged wet brake_
+%_Oil flow in gap and grooves of disengaged wet brake_
 
 ## Further Experience in Drive Technology
 ![XXX](/assets/MBS_model_automatic_transmission.jpg)
@@ -128,7 +128,7 @@ _MBS model of 9-speed automatic transmission_
 %  Your browser does not support the video tag.
 %</video>
 
-_Image-based measurement of plate movements in disengaged wet brakes_
+%_Image-based measurement of plate movements in disengaged wet brakes_
 
 ## Experience in Hyperloop
 ![XXX](/assets/Picture_Hyperloop_pod.jpg)
