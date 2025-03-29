@@ -117,20 +117,32 @@ _Picture of developed Hyperloop pod_
     -	Manufactured test rig components by milling, turning, and water-jet cutting
     -	Developed test programs and conducted test runs
 
-![XXX](/assets/Picture_Hyperloop_team.jpg)
-_Picture of developed Hyperloop pod_
+![XXX](/assets/Picture_Hyperloop_team.png)
+_Picture winning Hyperloop team (Los Angeles, CA, 2017)_
 
-![XXX](/assets/Picture_Hyperloop_pod.jpg)
-_Picture of developed Hyperloop pod_
+![XXX](/assets/Rendering_propulsion_unit.jpg)
+_Rendering of propulsion unit in test configuration_
 
-![XXX](/assets/Picture_Hyperloop_pod.jpg)
-_Picture of developed Hyperloop pod_
+![XXX](/assets/Rendering_test_rig.png)
+_Rendering of developed and operated test rig_
 
-### A Set-Up for Investigating Function, Efficiency, and Dynamics
+## Further Experience in the Field of Engineering
+![XXX](/assets/Rendering_tripod.png)
+_Rendering of developed, built, and operated pick-and-place robot (tripod)_
+  -	Developed a pick-and-place robot (tripod)
+    -	Led a team of three engineers in the development, design, and programming of the robot
+    -	Dimensioned electric motors for 8 m/s² maximum acceleration of end effector
+    -	Enabled the robot to play the Mill Game and learn trajectories
+
+## Appendix – Research Articles
+
+## Articles in the field of drive units
 [Publication link](https://www.mdpi.com/2624-8921/6/3/67)
 
-## Researching Shifting Elements for Automatic Transmissions
+## Articles in the field of wet brake and clutch systems
 [Publication link](https://www.mdpi.com/2624-8921/6/3/67)
 
-### Investigations on the vibration behavior of high-speed planetary gearbox
+## Articles in the field of drive technology
 [Publication link](https://link.springer.com/article/10.1007/s10010-024-00727-5)
+
+## Articles in the field of Machine Learning and Computer Vision
