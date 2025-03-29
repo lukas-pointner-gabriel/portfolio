@@ -2,6 +2,6 @@ title: Lukas POINTNER-GABRIEL
 logo: /assets/Portraitfoto_LukasPointner.jpg
 description: Portfolio
 #show_downloads: true
-theme: jekyll-theme-minima #jekyll-theme-cayman OR jekyll-theme-minimal OR minima
+theme: minima #jekyll-theme-cayman OR jekyll-theme-minimal OR minima
 
 # themes: cayman, minima, minimal, slate
