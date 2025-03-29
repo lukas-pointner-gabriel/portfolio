@@ -1,14 +1,14 @@
+# Education
+**Doctor’s Degree in Drive Technology:** Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
+
+**Master’s Degree in Mechanical Engineering:** Technical University of Munich, Germany (_2015 -- 2018_)
+
+**Bachelor's Degree in Mechanical Engineering:** Technical University of Vienna, Austria (_2012 -- 2015_)
+
+**Technical College Degree in Automation Technology:** Technical College of Neufelden, Austria (_2006 -- 2011_)
+
 #### Technical Skills
 Catia V5, Inventor, Solid Edge, Simpack, Simerics MP+, Ansys Mechanical, LabVIEW, MATLAB/Simulink, Python, LaTeX
-
-# Education
-**Doctor's Degree in Drive Technology:** Technical University of Munich (_Since 2018_)
-
-**Master's Degree in Mechanical Engineering:** Technical University of Munich (_2015 -- 2018_)
-
-**Bachelor's Degree in Mechanical Engineering:** Technical University of Vienna (_2012 -- 2015_)
-
-**Technical College in Automation Technology:** Higher Technical College Neufelden (_2006 -- 2011_)
 
 # Professional Experience
 **Team Lead Data-driven Modeling in Drive Technology:**
