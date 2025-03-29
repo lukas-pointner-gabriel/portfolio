@@ -92,12 +92,12 @@ _Picture of developed, built, and operated drive unit test rig_
     -	Programmed graphical user interface for user-oriented usage
   -	Published eight research articles in the field (see appendix)
 
-%<video controls>
-%  <source src="assets/LinkedIn_Post_var2.mp4" type="video/mp4">
-%  Your browser does not support the video tag.
-%</video>
+#<video controls>
+#<source src="assets/LinkedIn_Post_var2.mp4" type="video/mp4">
+#Your browser does not support the video tag.
+#</video>
 
-%_Oil flow in gap and grooves of disengaged wet brake_
+#_Oil flow in gap and grooves of disengaged wet brake_
 
 ## Further Experience in Drive Technology
 ![XXX](/assets/MBS_model_automatic_transmission.jpg)
@@ -123,12 +123,12 @@ _MBS model of 9-speed automatic transmission_
     -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with approx. 8 µm accuracy
   -	Published three research articles in the field (see appendix)
 
-%<video controls>
-%  <source src="assets/LinkedIn_Posts.mp4" type="video/mp4">
-%  Your browser does not support the video tag.
-%</video>
+#<video controls>
+#<source src="assets/LinkedIn_Posts.mp4" type="video/mp4">
+#Your browser does not support the video tag.
+#</video>
 
-%_Image-based measurement of plate movements in disengaged wet brakes_
+#_Image-based measurement of plate movements in disengaged wet brakes_
 
 ## Experience in Hyperloop
 ![XXX](/assets/Picture_Hyperloop_pod.jpg)
@@ -143,7 +143,7 @@ _Picture of developed Hyperloop pod_
     -	Manufactured test rig components by milling, turning, and water-jet cutting
     -	Developed test programs and conducted test runs
    
-%<iframe src="https://www.youtube.com/embed/pm48hdYskt0?si=lVbS6qTajxOYJMCW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#<iframe src="https://www.youtube.com/embed/pm48hdYskt0?si=lVbS6qTajxOYJMCW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![XXX](/assets/Picture_Hyperloop_team.png)
 
