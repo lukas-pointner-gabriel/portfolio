@@ -79,13 +79,6 @@ _Picture of developed, built, and operated drive unit_
 _Picture of developed, built, and operated drive unit test rig_
 
 ## Experience in the Field of Wet Brake and Clutch Systems
-<video width="300" controls>
-  <source src="assets/LinkedIn_Post_var2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-_Oil flow in gap and grooves of disengaged wet brake_
-
   -	Dimensioned wet brake system for electric vehicles
     -	Analyzed possible driveline topologies with focus on wet brakes 
     -	Dimensioned wet brake system integrated into drive unit avoiding brake dust emissions, requiring zero maintenance, and reducing unsprung wheel mass
@@ -98,6 +91,13 @@ _Oil flow in gap and grooves of disengaged wet brake_
     -	Developed data-driven prediction model using Gaussian process regression
     -	Programmed graphical user interface for user-oriented usage
   -	Published eight research articles in the field (see appendix)
+
+<video width="300" controls>
+  <source src="assets/LinkedIn_Post_var2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+_Oil flow in gap and grooves of disengaged wet brake_
 
 ## Further Experience in Drive Technology
 ![XXX](/assets/MBS_model_automatic_transmission.jpg)
@@ -126,6 +126,13 @@ _MBS model of shifting element_
     -	Developed low-cost setup of approx. $500 which can be universally applied to any brake system and does not require any distance sensors
     -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with approx. 8 µm accuracy
   -	Published three research articles in the field (see appendix)
+
+<video width="300" controls>
+  <source src="assets/LinkedIn_Posts.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+_Image-based measurement of plate movements in disengaged wet brakes_
 
 ## Experience in Hyperloop
 ![XXX](/assets/Picture_Hyperloop_pod.jpg)
