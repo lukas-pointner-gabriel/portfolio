@@ -1,3 +1,5 @@
+![XXX](/assets/Portraitfoto_LukasPointner.jpg)
+
 # Education
 **Doctor’s Degree in Drive Technology:** Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
 
@@ -7,8 +9,7 @@
 
 **Technical College Degree in Automation Technology:** Technical College of Neufelden, Austria (_2006 -- 2011_)
 
-#### Technical Skills
-Catia V5, Inventor, Solid Edge, Simpack, Simerics MP+, Ansys Mechanical, LabVIEW, MATLAB/Simulink, Python, LaTeX
+# Skills
 
 # Professional Experience
 **Team Lead Data-driven Modeling in Drive Technology:**
