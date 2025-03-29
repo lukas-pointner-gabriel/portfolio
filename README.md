@@ -40,7 +40,6 @@
 
 # Professional Experience
 ## Experience in the Field of Drive Units
-
 ![XXX](/assets/Rendering_drive_unit.png)
 _Rendering of developed drive unit_
 
@@ -65,6 +64,36 @@ _Photograph of developed, built, and operated drive unit_
 
 ![XXX](/assets/Photograph_drive_unit_test_rig.jpg)
 _Photograph of developed, built, and operated drive unit test rig_
+
+## Experience in the Field of Wet Brake and Clutch Systems
+  -	Dimensioned wet brake system for electric vehicles
+    -	Analyzed possible driveline topologies with focus on wet brakes 
+    -	Dimensioned wet brake system integrated into drive unit avoiding brake dust emissions, requiring zero maintenance, and reducing unsprung wheel mass
+    -	Conduced thermal and drag loss simulations
+  -	Investigated wet brake and clutch systems from automotive and industrial applications
+    -	Developed test programs for investigating friction, drag loss, NVH, and damage behavior
+    -	Conducted experimental tests on component test rigs
+    -	Developed CFD model for time-efficient determination of oil distribution and drag torque
+  -	Developed a software tool for fast and accurate drag loss prediction
+    -	Developed data-driven prediction model using Gaussian process regression
+    -	Programmed graphical user interface for user-oriented usage
+  -	Published eight research articles in the field (see appendix)
+
+## Further Experience in Drive Technology
+![XXX](/assets/Rendering_drive_unit.png)
+_Rendering of developed drive unit_
+  -	Investigated synchronizers for manual transmissions
+    - Developed test programs for investigating friction and damage behavior
+    -	Conducted experimental tests on component test rigs
+  -	Reduced weigh of Diesel engine oil pan by 26% through geometry optimization
+  -	Optimized geometry of Diesel engine outlet duct
+  -	Investigated form-fit shifting element for automatic transmission allowing the drag losses to be reduced by up to 90% compared to wet multi-plate shifting elements
+    -	Developed an MBS model of the shifting element to analyze the impact of form-fit shift on dynamics and comfort
+    -	Validated the model based on experimental test runs
+    -	Developed an MBS model of a 9-speed automatic transmission to analyze impact of form-fit shift on dynamics and comfort
+  -	Published two research articles in the field (see appendix)
+
+
 
 ## Researching Electric Drive Units
 ### A Set-Up for Investigating Function, Efficiency, and Dynamics
