@@ -59,11 +59,11 @@ _Rendering of developed drive unit_
     -	Improved gearset efficiency by 2.2% through mono fluid circuit (i.e., cooling or lubricating power electronics, electric motor, and gearset within a single circuit)
   -	Published four research articles in the field (see appendix)
 
-![XXX](/assets/Photograph_drive_unit.jpg)
-_Photograph of developed, built, and operated drive unit_
+![XXX](/assets/Picture_drive_unit.jpg)
+_Picture of developed, built, and operated drive unit_
 
-![XXX](/assets/Photograph_drive_unit_test_rig.jpg)
-_Photograph of developed, built, and operated drive unit test rig_
+![XXX](/assets/Picture_drive_unit_test_rig.jpg)
+_Picture of developed, built, and operated drive unit test rig_
 
 ## Experience in the Field of Wet Brake and Clutch Systems
   -	Dimensioned wet brake system for electric vehicles
@@ -106,6 +106,25 @@ _MBS model of shifting element_
   -	Published three research articles in the field (see appendix)
 
 ## Experience in Hyperloop
+![XXX](/assets/Picture_Hyperloop_pod.jpg)
+_Picture of developed Hyperloop pod_
+  -	Led design of the propulsion unit of an Hyperloop pod
+    -	Developed and designed a propulsion unit for realizing 400 km/h pod speed
+    -	Conducted FEM and MBS simulations to optimize design of propulsion unit
+    -	Operated Hyperloop pod on test track in Los Angeles, CA at 324 km/h speed
+  -	Led testing of the propulsion unit of an Hyperloop pod
+    -	Developed test rig for investigations under near-real conditions like gaps on test track
+    -	Manufactured test rig components by milling, turning, and water-jet cutting
+    -	Developed test programs and conducted test runs
+
+![XXX](/assets/Picture_Hyperloop_team.jpg)
+_Picture of developed Hyperloop pod_
+
+![XXX](/assets/Picture_Hyperloop_pod.jpg)
+_Picture of developed Hyperloop pod_
+
+![XXX](/assets/Picture_Hyperloop_pod.jpg)
+_Picture of developed Hyperloop pod_
 
 ### A Set-Up for Investigating Function, Efficiency, and Dynamics
 [Publication link](https://www.mdpi.com/2624-8921/6/3/67)
