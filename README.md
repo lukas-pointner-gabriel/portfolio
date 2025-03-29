@@ -40,6 +40,11 @@
 
 # Professional Experience
 ## Experience in the Field of Drive Units
+  - XXX; The "classic" skin of the theme. *Used by default.*
+  - XXX; A component that defines the theme's *skin-agnostic* variable defaults and sass partials.
+    It imports the following components (in the following order):
+    - XXX; A hook that allows overriding variable defaults and mixins. (*Note: Cannot override styles*)
+    - 
 -	Developed high-speed multi-speed drive unit with maximum motor speed of 50.000 rpm
   -	Developed innovative drive unit architecture, leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
   -	Dimensioned and optimized gearset components (gears, rotating shafts, bearings, differential, and sealings)
