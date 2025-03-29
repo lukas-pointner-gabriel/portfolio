@@ -2,23 +2,6 @@
 
 Driven and detail-oriented Mechanical Engineer specializing in drive technology, with a proven track record in designing, analyzing, and optimizing mechanical systems for high-performance and reliability. Proficient in developing innovative drive solutions tailored to industrial and automotive applications, with expertise in gear design, motor integration, and system dynamics. Equipped with a strong foundation in CAD software, finite element analysis (FEA), and materials science, coupled with a practical understanding of manufacturing processes. Adept at managing projects from concept to completion while meeting strict deadlines and exceeding performance expectations. Passionate about advancing technology through precision engineering and collaborative problem-solving. Education in manufacturing processes such as milling, turning, and welding.
 
-# Education
-  - **Doctor’s Degree in Drive Technology**
-  
-    Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
-
-  - **Master’s Degree in Mechanical Engineering**
-  
-    Technical University of Munich, Germany (_2015 -- 2018_)
-
-  - **Bachelor's Degree in Mechanical Engineering**
-
-    Technical University of Vienna, Austria (_2012 -- 2015_)
-
-  - **Technical College Degree in Automation Technology**
-
-    Technical College of Neufelden, Austria (_2006 -- 2011_)
-
 # Skills
 **Soft Skills**
   -	Languages: German (Native) and English (Fluent)
@@ -47,6 +30,23 @@ Driven and detail-oriented Mechanical Engineer specializing in drive technology,
   -	Winner SpaceX Hyperloop Pod Competition II in 2017
   -	Performance Scholarship Technical University of Munich in 2016 and 2017
   -	Performance Scholarship Technical University of Vienna in 2013 and 2015
+
+# Education
+  - **Doctor’s Degree in Drive Technology**
+  
+    Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
+
+  - **Master’s Degree in Mechanical Engineering**
+  
+    Technical University of Munich, Germany (_2015 -- 2018_)
+
+  - **Bachelor's Degree in Mechanical Engineering**
+
+    Technical University of Vienna, Austria (_2012 -- 2015_)
+
+  - **Technical College Degree in Automation Technology**
+
+    Technical College of Neufelden, Austria (_2006 -- 2011_)
 
 # Professional Experience
 ## Experience in the Field of Drive Units
