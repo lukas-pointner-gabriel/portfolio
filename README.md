@@ -163,20 +163,20 @@ _Rendering of developed, built, and operated pick-and-place robot (tripod)_
   - Vibration behaviour of a high-speed gearbox for electric vehicles
 
 ## Articles in the Field of Wet Brake and Clutch Systems
-  - [Link](https://doi.org/10.1038/s41598-023-43695-6); "Experimental analysis of oil flow and drag torque generation in disengaged wet clutches";
-  - "Experimental investigation of drag loss behavior of dip-lubricated wet clutches for building a data-driven prediction model"; [Link](https://doi.org/10.1038/s41598-024-59488-4)
-  - "Investigation of the Drag Losses of Wet Clutches at Dip Lubrication"; [Link](https://doi.org/10.4271/2022-01-0650)
-  - "Experimental investigation of drag loss and plate separation behavior of wet clutches under external forces"; [Link](https://doi.org/10.1016/j.rineng.2024.102918)
-  - "Image-Based Analysis of Plate Separation and Clearance Distribution in Wet Clutches"; [Link](https://doi.org/10.3390/app14209270)
-  - "Drag Losses of Wet Brakes and Clutches—A Scoping Review"; [Link](https://doi.org/10.3390/lubricants13010027)
-  - "Identification and Validation of Linear Friction Models Using ANOVA and Stepwise Regressions"; [Link](https://doi.org/10.3390/lubricants10110286)
-  - "Influence of Water Contamination, Iron Particles, and Energy Input on the NVH Behavior of Wet Clutches"; [Link](https://doi.org/10.3390/lubricants11110459)
+  - [Experimental analysis of oil flow and drag torque generation in disengaged wet clutches](https://doi.org/10.1038/s41598-023-43695-6)
+  - [Experimental investigation of drag loss behavior of dip-lubricated wet clutches for building a data-driven prediction model](https://doi.org/10.1038/s41598-024-59488-4)
+  - [Investigation of the Drag Losses of Wet Clutches at Dip Lubrication](https://doi.org/10.4271/2022-01-0650)
+  - [Experimental investigation of drag loss and plate separation behavior of wet clutches under external forces](https://doi.org/10.1016/j.rineng.2024.102918)
+  - [Image-Based Analysis of Plate Separation and Clearance Distribution in Wet Clutches](https://doi.org/10.3390/app14209270)
+  - [Drag Losses of Wet Brakes and Clutches—A Scoping Review](https://doi.org/10.3390/lubricants13010027)
+  - [Identification and Validation of Linear Friction Models Using ANOVA and Stepwise Regressions](https://doi.org/10.3390/lubricants10110286)
+  - [Influence of Water Contamination, Iron Particles, and Energy Input on the NVH Behavior of Wet Clutches](https://doi.org/10.3390/lubricants11110459)
 
 ## Articles in the Field of Drive Technology
-  - "Dynamic analysis of powershifts with form-fit clutches in automatic transmissions"; [Link](https://doi.org/10.1504/IJPT.2021.120303)
-  - "Characterization of High-dynamic Form-fit Shifts in Automatic Transmissions"; [Link](https://doi.org/10.1007/s38311-019-0122-3)
+  - [Dynamic analysis of powershifts with form-fit clutches in automatic transmissions](https://doi.org/10.1504/IJPT.2021.120303)
+  - [Characterization of High-dynamic Form-fit Shifts in Automatic Transmissions](https://doi.org/10.1007/s38311-019-0122-3)
 
 ## Articles in the Field of Machine Learning and Computer Vision
-  - "A methodology for data-driven modeling and prediction of the drag losses of wet clutches"; [Link](https://doi.org/10.1007/s10010-023-00661-y)
-  - "Using Gaussian process regression for building a data-driven drag loss model of wet clutches"; [Link](https://doi.org/10.1016/j.triboint.2024.109825)
-  - "A methodology for image-based measurement of plate movement in disengaged wet clutches"; [Link](https://doi.org/10.1038/s41598-024-58012-y)
+  - [A methodology for data-driven modeling and prediction of the drag losses of wet clutches](https://doi.org/10.1007/s10010-023-00661-y)
+  - [Using Gaussian process regression for building a data-driven drag loss model of wet clutches](https://doi.org/10.1016/j.triboint.2024.109825)
+  - [A methodology for image-based measurement of plate movement in disengaged wet clutches](https://doi.org/10.1038/s41598-024-58012-y)
