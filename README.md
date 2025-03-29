@@ -157,13 +157,13 @@ _Rendering of developed, built, and operated pick-and-place robot (tripod)_
 # Appendix – Research Articles
 
 ## Articles in the Field of Drive Units
-  - "Electric Drive Units: A Set-Up for Investigating Function, Efficiency, and Dynamics"; [Link](https://doi.org/10.3390/vehicles6030067)
-  - "Numerical and experimental investigations on the vibration behavior of a high-speed planetary gearbox"; [Link](https://doi.org/10.1007/s10010-024-00727-5)
-  - "Efficiency Improvement Potential of a BEV Gearbox using a Mono Fluid Circuit"; [Link](https://doi.org/10.51202/9783181024331-193)
-  - "Vibration behaviour of a high-speed gearbox for electric vehicles"
+  - [Electric Drive Units: A Set-Up for Investigating Function, Efficiency, and Dynamics](https://doi.org/10.3390/vehicles6030067)
+  - [Numerical and experimental investigations on the vibration behavior of a high-speed planetary gearbox](https://doi.org/10.1007/s10010-024-00727-5)
+  - [Efficiency Improvement Potential of a BEV Gearbox using a Mono Fluid Circuit](https://doi.org/10.51202/9783181024331-193)
+  - Vibration behaviour of a high-speed gearbox for electric vehicles
 
 ## Articles in the Field of Wet Brake and Clutch Systems
-  - "Experimental analysis of oil flow and drag torque generation in disengaged wet clutches"; [Link](https://doi.org/10.1038/s41598-023-43695-6)
+  - [Link](https://doi.org/10.1038/s41598-023-43695-6); "Experimental analysis of oil flow and drag torque generation in disengaged wet clutches";
   - "Experimental investigation of drag loss behavior of dip-lubricated wet clutches for building a data-driven prediction model"; [Link](https://doi.org/10.1038/s41598-024-59488-4)
   - "Investigation of the Drag Losses of Wet Clutches at Dip Lubrication"; [Link](https://doi.org/10.4271/2022-01-0650)
   - "Experimental investigation of drag loss and plate separation behavior of wet clutches under external forces"; [Link](https://doi.org/10.1016/j.rineng.2024.102918)
