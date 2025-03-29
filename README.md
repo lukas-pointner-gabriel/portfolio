@@ -105,6 +105,7 @@ _MBS model of shifting element_
     -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with approx. 8 µm accuracy
   -	Published three research articles in the field (see appendix)
 
+## Experience in Hyperloop
 
 ### A Set-Up for Investigating Function, Efficiency, and Dynamics
 [Publication link](https://www.mdpi.com/2624-8921/6/3/67)
