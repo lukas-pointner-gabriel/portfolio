@@ -109,14 +109,14 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
   -	Developed test programs for investigating friction and damage behavior
   -	Conducted experimental tests on component test rigs
 
-**Reduced weigh of Diesel engine oil pan by 26% through geometry optimization**
-
-**Optimized geometry of Diesel engine outlet duct**
-
 **Investigated form-fit shifting element for automatic transmission allowing the drag losses to be reduced by up to 90% compared to wet multi-plate shifting elements**
   -	Developed an MBS model of the shifting element to analyze the impact of form-fit shift on dynamics and comfort
   -	Validated the model based on experimental test runs
   -	Developed an MBS model of a 9-speed automatic transmission to analyze impact of form-fit shift on dynamics and comfort
+
+**Optimized components of Diesel engine**
+  -	Reduced weigh of Diesel engine oil pan by 26% through geometry optimization
+  -	Optimized geometry of Diesel engine outlet duct resulting in significant reduction in flow losses
 
 **Published two research articles in the field of drive technology**
   -	[Dynamic analysis of powershifts with form-fit clutches in automatic transmissions](https://doi.org/10.1504/IJPT.2021.120303)
