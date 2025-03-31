@@ -167,6 +167,7 @@ _Rendering of developed and operated test rig (Source: WARR Hyperloop)_
 ![XXX](/assets/Rendering_tripod.png)
 
 _Rendering of developed, built, and operated pick-and-place robot (tripod)_
+
 **Developed a pick-and-place robot (tripod)**
   -	Led a team of three engineers in the development, design, and programming of the robot
   -	Dimensioned electric motors for 8 m/s² maximum acceleration of end effector
