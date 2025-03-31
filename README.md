@@ -54,20 +54,20 @@ Driven and detail-oriented Mechanical Engineer specializing in drive technology,
 
 _Rendering of developed drive unit (Source: FZG)_
 
-  -	Developed high-speed multi-speed drive unit with maximum motor speed of 50.000 rpm
-    -	Developed innovative drive unit architecture, leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
-    -	Dimensioned and optimized gearset components (gears, rotating shafts, bearings, differential, and sealings)
-  -	Developed test rig for investigating function, efficiency, and dynamics of drive units
-    -	Led the development, design, manufacturing, assembly, and operation of the test rig enabling for investigating drive units with a maximum output torque of 3000 Nm and a maximum motor speed of 50.000 rpm
-    -	Led a cross-functional team (mechanical, software, electronics) of 10 engineers and technicians to put developed test rig and drive unit in operation while meeting strict deadlines
-    -	Conducted FEM and MBS simulations to optimize mechanical test rig design
-    -	Developed safety concept and conducted Failure Mode and Effects Analysis (FMEA)
-    -	Developed a robust and low-cost torque measurement unit for measurements at rotational speeds of up to 50.000 rpm
-  -	Conducted comprehensive test runs on function, efficiency, and dynamics
-    -	Developed test programs and procedures for investigating function, dynamics, and efficiency
-    -	Identified and resolved key failure modes in components resulting in enhanced reliability
-    -	Significantly improved vibration behavior of high-speed planetary gearset through optimizations of gear geometry
-    -	Improved gearset efficiency by 2.2% through mono fluid circuit (i.e., cooling or lubricating power electronics, electric motor, and gearset within a single circuit)
+**Developed high-speed multi-speed drive unit with maximum motor speed of 50.000 rpm**
+  -	Developed innovative drive unit architecture, leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
+  -	Dimensioned and optimized gearset components (gears, rotating shafts, bearings, differential, and sealings)
+**Developed test rig for investigating function, efficiency, and dynamics of drive units**
+  -	Led the development, design, manufacturing, assembly, and operation of the test rig enabling for investigating drive units with a maximum output torque of 3000 Nm and a maximum motor speed of 50.000 rpm
+  -	Led a cross-functional team (mechanical, software, electronics) of 10 engineers and technicians to put developed test rig and drive unit in operation while meeting strict deadlines
+  -	Conducted FEM and MBS simulations to optimize mechanical test rig design
+  -	Developed safety concept and conducted Failure Mode and Effects Analysis (FMEA)
+  -	Developed a robust and low-cost torque measurement unit for measurements at rotational speeds of up to 50.000 rpm
+**Conducted comprehensive test runs on function, efficiency, and dynamics**
+  -	Developed test programs and procedures for investigating function, dynamics, and efficiency
+  -	Identified and resolved key failure modes in components resulting in enhanced reliability
+  -	Significantly improved vibration behavior of high-speed planetary gearset through optimizations of gear geometry
+  -	Improved gearset efficiency by 2.2% through mono fluid circuit (i.e., cooling or lubricating power electronics, electric motor, and gearset within a single circuit)
 
 ### Research Articles in the Field of Drive Units
   -	[Electric Drive Units: A Set-Up for Investigating Function, Efficiency, and Dynamics](https://doi.org/10.3390/vehicles6030067)
@@ -83,17 +83,17 @@ _Picture of developed, built, and operated drive unit (Source: FZG)_
 _Picture of developed, built, and operated drive unit test rig (Source: FZG)_
 
 ## Experience in the Field of Wet Brake and Clutch Systems
-  -	Dimensioned wet brake system for electric vehicles
-    -	Analyzed possible driveline topologies with focus on wet brakes 
-    -	Dimensioned wet brake system integrated into drive unit avoiding brake dust emissions, requiring zero maintenance, and reducing unsprung wheel mass
-    -	Conduced thermal and drag loss simulations
-  -	Investigated wet brake and clutch systems from automotive and industrial applications
-    -	Developed test programs for investigating friction, drag loss, NVH, and damage behavior
-    -	Conducted experimental tests on component test rigs
-    -	Developed CFD model for time-efficient determination of oil distribution and drag torque
-  -	Developed a software tool for fast and accurate drag loss prediction
-    -	Developed data-driven prediction model using Gaussian process regression
-    -	Programmed graphical user interface for user-oriented usage
+**Dimensioned wet brake system for electric vehicles**
+  -	Analyzed possible driveline topologies with focus on wet brakes 
+  -	Dimensioned wet brake system integrated into drive unit avoiding brake dust emissions, requiring zero maintenance, and reducing unsprung wheel mass
+  -	Conduced thermal and drag loss simulations
+**Investigated wet brake and clutch systems from automotive and industrial applications**
+  -	Developed test programs for investigating friction, drag loss, NVH, and damage behavior
+  -	Conducted experimental tests on wet brake and clutch systems of limited-slip differentials, transfer cases, dual-clutch transmissions, automatic transmissions, and torque-vectoring systems
+  -	Developed CFD model for time-efficient determination of oil distribution and drag torque
+**Developed a software tool for fast and accurate drag loss prediction**
+  -	Developed data-driven prediction model using Gaussian process regression
+  -	Programmed graphical user interface for user-oriented usage
 
 ### Research Articles in the Field of Wet Brake and Clutch Systems
   -	[Experimental analysis of oil flow and drag torque generation in disengaged wet clutches](https://doi.org/10.1038/s41598-023-43695-6)
@@ -109,27 +109,27 @@ _Picture of developed, built, and operated drive unit test rig (Source: FZG)_
 
 _MBS model of 9-speed automatic transmission (Source: FZG)_
 
-  -	Investigated synchronizers for manual transmissions
-    - Developed test programs for investigating friction and damage behavior
-    -	Conducted experimental tests on component test rigs
-  -	Reduced weigh of Diesel engine oil pan by 26% through geometry optimization
-  -	Optimized geometry of Diesel engine outlet duct
-  -	Investigated form-fit shifting element for automatic transmission allowing the drag losses to be reduced by up to 90% compared to wet multi-plate shifting elements
-    -	Developed an MBS model of the shifting element to analyze the impact of form-fit shift on dynamics and comfort
-    -	Validated the model based on experimental test runs
-    -	Developed an MBS model of a 9-speed automatic transmission to analyze impact of form-fit shift on dynamics and comfort
+**Investigated synchronizers for manual transmissions**
+  -	Developed test programs for investigating friction and damage behavior
+  -	Conducted experimental tests on component test rigs
+**Reduced weigh of Diesel engine oil pan by 26% through geometry optimization**
+**Optimized geometry of Diesel engine outlet duct**
+**Investigated form-fit shifting element for automatic transmission allowing the drag losses to be reduced by up to 90% compared to wet multi-plate shifting elements**
+  -	Developed an MBS model of the shifting element to analyze the impact of form-fit shift on dynamics and comfort
+  -	Validated the model based on experimental test runs
+  -	Developed an MBS model of a 9-speed automatic transmission to analyze impact of form-fit shift on dynamics and comfort
 
 ### Research Articles in the Field of Drive Technology
   -	[Dynamic analysis of powershifts with form-fit clutches in automatic transmissions](https://doi.org/10.1504/IJPT.2021.120303)
   -	[Characterization of High-dynamic Form-fit Shifts in Automatic Transmissions](https://doi.org/10.1007/s38311-019-0122-3)
 
 ## Experience in the Field of Machine Learning and Computer Vision
-  -	Developed a drag loss prediction model of wet brakes and clutches
-    -	Developed model enables predictions within split-seconds and an MRE of maximum 14.2%
-    -	Automotive suppliers and OEMs successfully use model for product development
-  -	Developed an image-based method for measuring plate movements in disengaged wet brakes
-    -	Developed low-cost setup of approx. $500 which can be universally applied to any brake system and does not require any distance sensors
-    -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with approx. 8 µm accuracy
+**Developed a drag loss prediction model of wet brakes and clutches**
+  -	Developed model enables predictions within split-seconds and an MRE of maximum 14.2%
+  -	Automotive suppliers and OEMs successfully use model for product development
+**Developed an image-based method for measuring plate movements in disengaged wet brakes**
+  -	Developed low-cost setup of approx. $500 which can be universally applied to any brake system and does not require any distance sensors
+  -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with approx. 8 µm accuracy
 
 ### Research Articles in the Field of Machine Learning and Computer Vision
   -	[A methodology for data-driven modeling and prediction of the drag losses of wet clutches](https://doi.org/10.1007/s10010-023-00661-y)
@@ -141,14 +141,14 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
 
 _Picture of developed Hyperloop pod (Source: WARR Hyperloop)_
 
-  -	Led design of the propulsion unit of an Hyperloop pod
-    -	Developed and designed a propulsion unit for realizing 400 km/h pod speed
-    -	Conducted FEM and MBS simulations to optimize design of propulsion unit
-    -	Operated Hyperloop pod on test track in Los Angeles, CA at 324 km/h speed
-  -	Led testing of the propulsion unit of an Hyperloop pod
-    -	Developed test rig for investigations under near-real conditions like gaps on test track
-    -	Manufactured test rig components by milling, turning, and water-jet cutting
-    -	Developed test programs and conducted test runs
+**Led design of the propulsion unit of an Hyperloop pod**
+  -	Developed and designed a propulsion unit for realizing 400 km/h pod speed
+  -	Conducted FEM and MBS simulations to optimize design of propulsion unit
+  -	Operated Hyperloop pod on test track in Los Angeles, CA at 324 km/h speed
+**Led testing of the propulsion unit of an Hyperloop pod**
+  -	Developed test rig for investigations under near-real conditions like gaps on test track
+  -	Manufactured test rig components by milling, turning, and water-jet cutting
+  -	Developed test programs and conducted test runs
    
 ![XXX](/assets/Picture_Hyperloop_team.png)
 
@@ -166,7 +166,7 @@ _Rendering of developed and operated test rig (Source: WARR Hyperloop)_
 ![XXX](/assets/Rendering_tripod.png)
 
 _Rendering of developed, built, and operated pick-and-place robot (tripod)_
-  -	Developed a pick-and-place robot (tripod)
-    -	Led a team of three engineers in the development, design, and programming of the robot
-    -	Dimensioned electric motors for 8 m/s² maximum acceleration of end effector
-    -	Enabled the robot to play the Mill Game and learn trajectories
+**Developed a pick-and-place robot (tripod)**
+  -	Led a team of three engineers in the development, design, and programming of the robot
+  -	Dimensioned electric motors for 8 m/s² maximum acceleration of end effector
+  -	Enabled the robot to play the Mill Game and learn trajectories
