@@ -52,7 +52,7 @@ Driven and detail-oriented Mechanical Engineer specializing in drive technology,
 ## Experience in the Field of Drive Units
 ![XXX](/assets/Rendering_drive_unit.png)
 
-_Rendering of developed drive unit_
+_Rendering of developed drive unit (Source: FZG)_
 
   -	Developed high-speed multi-speed drive unit with maximum motor speed of 50.000 rpm
     -	Developed innovative drive unit architecture, leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
@@ -76,11 +76,11 @@ _Rendering of developed drive unit_
 
 ![XXX](/assets/Picture_drive_unit.jpg)
 
-_Picture of developed, built, and operated drive unit_
+_Picture of developed, built, and operated drive unit (Source: FZG)_
 
 ![XXX](/assets/Picture_drive_unit_test_rig.jpg)
 
-_Picture of developed, built, and operated drive unit test rig_
+_Picture of developed, built, and operated drive unit test rig (Source: FZG)_
 
 ## Experience in the Field of Wet Brake and Clutch Systems
   -	Dimensioned wet brake system for electric vehicles
@@ -107,7 +107,8 @@ _Picture of developed, built, and operated drive unit test rig_
 ## Further Experience in Drive Technology
 ![XXX](/assets/MBS_model_automatic_transmission.jpg)
 
-_MBS model of 9-speed automatic transmission_
+_MBS model of 9-speed automatic transmission (Source: FZG)_
+
   -	Investigated synchronizers for manual transmissions
     - Developed test programs for investigating friction and damage behavior
     -	Conducted experimental tests on component test rigs
@@ -136,7 +137,8 @@ _MBS model of 9-speed automatic transmission_
 ## Experience in Hyperloop
 ![XXX](/assets/Picture_Hyperloop_pod.jpg)
 
-_Picture of developed Hyperloop pod_
+_Picture of developed Hyperloop pod (Source: WARR Hyperloop)_
+
   -	Led design of the propulsion unit of an Hyperloop pod
     -	Developed and designed a propulsion unit for realizing 400 km/h pod speed
     -	Conducted FEM and MBS simulations to optimize design of propulsion unit
@@ -148,15 +150,15 @@ _Picture of developed Hyperloop pod_
    
 ![XXX](/assets/Picture_Hyperloop_team.png)
 
-_Picture winning Hyperloop team (Los Angeles, CA, 2017)_
+_Picture winning Hyperloop team (Los Angeles, CA, 2017; Source: WARR Hyperloop)_
 
 ![XXX](/assets/Rendering_propulsion_unit.jpg)
 
-_Rendering of propulsion unit in test configuration_
+_Rendering of propulsion unit in test configuration (Source: WARR Hyperloop)_
 
 ![XXX](/assets/Rendering_test_rig.png)
 
-_Rendering of developed and operated test rig_
+_Rendering of developed and operated test rig (Source: WARR Hyperloop)_
 
 ## Further Experience in the Field of Engineering
 ![XXX](/assets/Rendering_tripod.png)
