@@ -153,7 +153,7 @@ _Picture of developed Hyperloop pod (Source: WARR Hyperloop)_
    
 ![XXX](/assets/Picture_Hyperloop_team.png)
 
-_Picture winning Hyperloop team (Los Angeles, CA, 2017; Source: WARR Hyperloop)_
+_Picture of winning Hyperloop team (Los Angeles, CA, 2017; Source: WARR Hyperloop)_
 
 ![XXX](/assets/Rendering_propulsion_unit.jpg)
 
