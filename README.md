@@ -73,7 +73,6 @@ _Rendering of developed drive unit (Source: FZG)_
   -	[Electric Drive Units: A Set-Up for Investigating Function, Efficiency, and Dynamics](https://doi.org/10.3390/vehicles6030067)
   -	[Numerical and experimental investigations on the vibration behavior of a high-speed planetary gearbox](https://doi.org/10.1007/s10010-024-00727-5)
   -	[Efficiency Improvement Potential of a BEV Gearbox using a Mono Fluid Circuit](https://doi.org/10.51202/9783181024331-193)
-  -	Vibration behaviour of a high-speed gearbox for electric vehicles
 
 ![XXX](/assets/Picture_drive_unit.jpg)
 
