@@ -71,7 +71,7 @@ _Rendering of developed drive unit (Source: FZG)_
   -	Significantly improved vibration behavior of high-speed planetary gearset through optimizations of gear geometry
   -	Improved gearset efficiency by 2.2% through mono fluid circuit (i.e., cooling or lubricating power electronics, electric motor, and gearset within a single circuit)
 
-### Research Articles in the Field of Drive Units
+**Published three Research Articles in the Field of Drive Units**
   -	[Electric Drive Units: A Set-Up for Investigating Function, Efficiency, and Dynamics](https://doi.org/10.3390/vehicles6030067)
   -	[Numerical and experimental investigations on the vibration behavior of a high-speed planetary gearbox](https://doi.org/10.1007/s10010-024-00727-5)
   -	[Efficiency Improvement Potential of a BEV Gearbox using a Mono Fluid Circuit](https://doi.org/10.51202/9783181024331-193)
@@ -99,7 +99,7 @@ _Picture of developed, built, and operated drive unit test rig (Source: FZG)_
   -	Developed data-driven prediction model using Gaussian process regression
   -	Programmed graphical user interface for user-oriented usage
 
-### Research Articles in the Field of Wet Brake and Clutch Systems
+**Published seven Research Articles in the Field of Wet Brake and Clutch Systems**
   -	[Experimental analysis of oil flow and drag torque generation in disengaged wet clutches](https://doi.org/10.1038/s41598-023-43695-6)
   -	[Experimental investigation of drag loss behavior of dip-lubricated wet clutches for building a data-driven prediction model](https://doi.org/10.1038/s41598-024-59488-4)
   -	[Investigation of the Drag Losses of Wet Clutches at Dip Lubrication](https://doi.org/10.4271/2022-01-0650)
@@ -126,7 +126,7 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
   -	Validated the model based on experimental test runs
   -	Developed an MBS model of a 9-speed automatic transmission to analyze impact of form-fit shift on dynamics and comfort
 
-### Research Articles in the Field of Drive Technology
+**Published two Research Articles in the Field of Drive Technology**
   -	[Dynamic analysis of powershifts with form-fit clutches in automatic transmissions](https://doi.org/10.1504/IJPT.2021.120303)
   -	[Characterization of High-dynamic Form-fit Shifts in Automatic Transmissions](https://doi.org/10.1007/s38311-019-0122-3)
 
@@ -139,7 +139,7 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
   -	Developed low-cost setup of approx. $500 which can be universally applied to any brake system and does not require any distance sensors
   -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with approx. 8 µm accuracy
 
-### Research Articles in the Field of Machine Learning and Computer Vision
+**Published three Research Articles in the Field of Machine Learning and Computer Vision**
   -	[A methodology for data-driven modeling and prediction of the drag losses of wet clutches](https://doi.org/10.1007/s10010-023-00661-y)
   -	[Using Gaussian process regression for building a data-driven drag loss model of wet clutches](https://doi.org/10.1016/j.triboint.2024.109825)
   -	[A methodology for image-based measurement of plate movement in disengaged wet clutches](https://doi.org/10.1038/s41598-024-58012-y)
