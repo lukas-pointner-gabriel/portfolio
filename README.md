@@ -20,7 +20,7 @@ Driven and detail-oriented Mechanical Engineer specializing in drive technology,
   - Consulted OEMs and Tier 1 from automotive sector
   -	Experience in manufacturing engineering (milling, turning, welding, and sheet metal forming)
   -	Training and certification in quality management (ISO 9001)
-  -	Acquisition of research funds in the field of dive technology
+  -	Acquisition of research funds in the field of drive technology
   -	Teaching student basics in machine design
   -	15 years of experience in CAD, three years in FEM and MBS, and two years in CFD
 
@@ -68,7 +68,11 @@ _Rendering of developed drive unit_
     -	Identified and resolved key failure modes in components resulting in enhanced reliability
     -	Significantly improved vibration behavior of high-speed planetary gearset through optimizations of gear geometry
     -	Improved gearset efficiency by 2.2% through mono fluid circuit (i.e., cooling or lubricating power electronics, electric motor, and gearset within a single circuit)
-  -	Published four research articles in the field (see appendix)
+  -	Published four research articles in the field
+    -	[Electric Drive Units: A Set-Up for Investigating Function, Efficiency, and Dynamics](https://doi.org/10.3390/vehicles6030067)
+    -	[Numerical and experimental investigations on the vibration behavior of a high-speed planetary gearbox](https://doi.org/10.1007/s10010-024-00727-5)
+    -	[Efficiency Improvement Potential of a BEV Gearbox using a Mono Fluid Circuit](https://doi.org/10.51202/9783181024331-193)
+    -	Vibration behaviour of a high-speed gearbox for electric vehicles
 
 ![XXX](/assets/Picture_drive_unit.jpg)
 
@@ -90,7 +94,15 @@ _Picture of developed, built, and operated drive unit test rig_
   -	Developed a software tool for fast and accurate drag loss prediction
     -	Developed data-driven prediction model using Gaussian process regression
     -	Programmed graphical user interface for user-oriented usage
-  -	Published eight research articles in the field (see appendix)
+  -	Published eight research articles in the field
+    -	[Experimental analysis of oil flow and drag torque generation in disengaged wet clutches](https://doi.org/10.1038/s41598-023-43695-6)
+    -	[Experimental investigation of drag loss behavior of dip-lubricated wet clutches for building a data-driven prediction model](https://doi.org/10.1038/s41598-024-59488-4)
+    -	[Investigation of the Drag Losses of Wet Clutches at Dip Lubrication](https://doi.org/10.4271/2022-01-0650)
+    -	[Experimental investigation of drag loss and plate separation behavior of wet clutches under external forces](https://doi.org/10.1016/j.rineng.2024.102918)
+    -	[Image-Based Analysis of Plate Separation and Clearance Distribution in Wet Clutches](https://doi.org/10.3390/app14209270)
+    -	[Drag Losses of Wet Brakes and Clutches—A Scoping Review](https://doi.org/10.3390/lubricants13010027)
+    -	[Identification and Validation of Linear Friction Models Using ANOVA and Stepwise Regressions](https://doi.org/10.3390/lubricants10110286)
+    -	[Influence of Water Contamination, Iron Particles, and Energy Input on the NVH Behavior of Wet Clutches](https://doi.org/10.3390/lubricants11110459)
 
 ## Further Experience in Drive Technology
 ![XXX](/assets/MBS_model_automatic_transmission.jpg)
@@ -105,16 +117,21 @@ _MBS model of 9-speed automatic transmission_
     -	Developed an MBS model of the shifting element to analyze the impact of form-fit shift on dynamics and comfort
     -	Validated the model based on experimental test runs
     -	Developed an MBS model of a 9-speed automatic transmission to analyze impact of form-fit shift on dynamics and comfort
-  -	Published two research articles in the field (see appendix)
+  -	Published two research articles in the field
+    -	[Dynamic analysis of powershifts with form-fit clutches in automatic transmissions](https://doi.org/10.1504/IJPT.2021.120303)
+    -	[Characterization of High-dynamic Form-fit Shifts in Automatic Transmissions](https://doi.org/10.1007/s38311-019-0122-3)
 
 ## Experience in the Field of Machine Learning and Computer Vision
   -	Developed a drag loss prediction model of wet brakes and clutches
-    -	Developed model enables predictions within split-seconds and an MRE of maximum 14.2 %
+    -	Developed model enables predictions within split-seconds and an MRE of maximum 14.2%
     -	Automotive suppliers and OEMs successfully use model for product development
   -	Developed an image-based method for measuring plate movements in disengaged wet brakes
     -	Developed low-cost setup of approx. $500 which can be universally applied to any brake system and does not require any distance sensors
     -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with approx. 8 µm accuracy
-  -	Published three research articles in the field (see appendix)
+  -	Published three research articles in the field
+    -	[A methodology for data-driven modeling and prediction of the drag losses of wet clutches](https://doi.org/10.1007/s10010-023-00661-y)
+    -	[Using Gaussian process regression for building a data-driven drag loss model of wet clutches](https://doi.org/10.1016/j.triboint.2024.109825)
+    -	[A methodology for image-based measurement of plate movement in disengaged wet clutches](https://doi.org/10.1038/s41598-024-58012-y)
 
 ## Experience in Hyperloop
 ![XXX](/assets/Picture_Hyperloop_pod.jpg)
@@ -149,30 +166,3 @@ _Rendering of developed, built, and operated pick-and-place robot (tripod)_
     -	Led a team of three engineers in the development, design, and programming of the robot
     -	Dimensioned electric motors for 8 m/s² maximum acceleration of end effector
     -	Enabled the robot to play the Mill Game and learn trajectories
-
-# Appendix – Research Articles
-
-## Articles in the Field of Drive Units
-  - [Electric Drive Units: A Set-Up for Investigating Function, Efficiency, and Dynamics](https://doi.org/10.3390/vehicles6030067)
-  - [Numerical and experimental investigations on the vibration behavior of a high-speed planetary gearbox](https://doi.org/10.1007/s10010-024-00727-5)
-  - [Efficiency Improvement Potential of a BEV Gearbox using a Mono Fluid Circuit](https://doi.org/10.51202/9783181024331-193)
-  - Vibration behaviour of a high-speed gearbox for electric vehicles
-
-## Articles in the Field of Wet Brake and Clutch Systems
-  - [Experimental analysis of oil flow and drag torque generation in disengaged wet clutches](https://doi.org/10.1038/s41598-023-43695-6)
-  - [Experimental investigation of drag loss behavior of dip-lubricated wet clutches for building a data-driven prediction model](https://doi.org/10.1038/s41598-024-59488-4)
-  - [Investigation of the Drag Losses of Wet Clutches at Dip Lubrication](https://doi.org/10.4271/2022-01-0650)
-  - [Experimental investigation of drag loss and plate separation behavior of wet clutches under external forces](https://doi.org/10.1016/j.rineng.2024.102918)
-  - [Image-Based Analysis of Plate Separation and Clearance Distribution in Wet Clutches](https://doi.org/10.3390/app14209270)
-  - [Drag Losses of Wet Brakes and Clutches—A Scoping Review](https://doi.org/10.3390/lubricants13010027)
-  - [Identification and Validation of Linear Friction Models Using ANOVA and Stepwise Regressions](https://doi.org/10.3390/lubricants10110286)
-  - [Influence of Water Contamination, Iron Particles, and Energy Input on the NVH Behavior of Wet Clutches](https://doi.org/10.3390/lubricants11110459)
-
-## Articles in the Field of Drive Technology
-  - [Dynamic analysis of powershifts with form-fit clutches in automatic transmissions](https://doi.org/10.1504/IJPT.2021.120303)
-  - [Characterization of High-dynamic Form-fit Shifts in Automatic Transmissions](https://doi.org/10.1007/s38311-019-0122-3)
-
-## Articles in the Field of Machine Learning and Computer Vision
-  - [A methodology for data-driven modeling and prediction of the drag losses of wet clutches](https://doi.org/10.1007/s10010-023-00661-y)
-  - [Using Gaussian process regression for building a data-driven drag loss model of wet clutches](https://doi.org/10.1016/j.triboint.2024.109825)
-  - [A methodology for image-based measurement of plate movement in disengaged wet clutches](https://doi.org/10.1038/s41598-024-58012-y)
