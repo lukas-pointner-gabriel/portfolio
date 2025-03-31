@@ -32,21 +32,13 @@ Driven and detail-oriented Mechanical Engineer specializing in drive technology,
   -	Performance Scholarship Technical University of Vienna in 2013 and 2015
 
 # Education
-**Doctor’s Degree in Drive Technology**
-  
-Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
+**Doctor’s Degree in Drive Technology** - Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
 
-**Master’s Degree in Mechanical Engineering**
-  
-Technical University of Munich, Germany (_2015 -- 2018_)
+**Master’s Degree in Mechanical Engineering** - Technical University of Munich, Germany (_2015 -- 2018_)
 
-**Bachelor's Degree in Mechanical Engineering**
+**Bachelor's Degree in Mechanical Engineering** - Technical University of Vienna, Austria (_2012 -- 2015_)
 
-Technical University of Vienna, Austria (_2012 -- 2015_)
-
-**Technical College Degree in Automation Technology**
-
-Technical College of Neufelden, Austria (_2006 -- 2011_)
+**Technical College Degree in Automation Technology** - Technical College of Neufelden, Austria (_2006 -- 2011_)
 
 # Professional Experience
 ## Experience in the Field of Drive Units
