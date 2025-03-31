@@ -16,7 +16,7 @@ Driven and detail-oriented Mechanical Engineer specializing in drive technology,
   -	Machine Learning and Computer Vision: Tensorflow, scikit-learn, GPflow, and OpenCV
   -	Other: MS Office, LaTeX, Git, LabVIEW, Mathcad, and FZG driveline simulation software
 
-**Industry-Specific Experience and Certification**
+**Industry-specific Experience and Certification**
   - Consulted OEMs and Tier 1 from automotive sector
   -	Experience in manufacturing engineering (milling, turning, welding, and sheet metal forming)
   -	Training and certification in quality management (ISO 9001)
