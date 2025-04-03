@@ -22,7 +22,7 @@ Driven and detail-oriented Mechanical Engineer specializing in drive technology,
   -	Training and certification in quality management (ISO 9001)
   -	Acquisition of research funds in the field of drive technology
   -	Teaching student basics in machine design
-  -	15 years of experience in CAD, three years in FEM and MBS, and two years in CFD
+  -	15 years of experience in CAD, three years in FEA and MBS, and two years in CFD
 
 # Awards and Recognitions
   -	Winner Hanns-Voith-Foundation Award (Category: Drive Technology) in 2019
@@ -53,7 +53,7 @@ _Rendering of developed drive unit (Source: FZG)_
 **Developed test rig for investigating function, efficiency, and dynamics of drive units**
   -	Led the development, design, manufacturing, assembly, and operation of the test rig enabling for investigating drive units with a maximum output torque of 3000 Nm and a maximum motor speed of 50.000 rpm
   -	Led a cross-functional team (mechanical, software, electronics) of 10 engineers and technicians to put developed test rig and drive unit in operation while meeting strict deadlines
-  -	Conducted FEM and MBS simulations to optimize mechanical test rig design
+  -	Conducted FEA and MBS to optimize mechanical test rig design
   -	Developed safety concept and conducted Failure Mode and Effects Analysis (FMEA)
   -	Developed a robust and low-cost torque measurement unit for measurements at rotational speeds of up to 50.000 rpm
 
@@ -143,7 +143,7 @@ _Picture of developed Hyperloop pod (Source: WARR Hyperloop)_
 
 **Led design of the propulsion unit of an Hyperloop pod**
   -	Developed and designed a propulsion unit for realizing 400 km/h pod speed
-  -	Conducted FEM and MBS simulations to optimize design of propulsion unit
+  -	Conducted FEA and MBS to optimize design of propulsion unit
   -	Operated Hyperloop pod on test track in Los Angeles, CA at 324 km/h speed
 
 **Led testing of the propulsion unit of an Hyperloop pod**
