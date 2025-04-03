@@ -55,7 +55,7 @@ _Rendering of developed drive unit (Source: FZG)_
   -	Led a cross-functional team (mechanical, software, electronics) of 10 engineers and technicians to put developed test rig and drive unit in operation while meeting strict deadlines
   -	Conducted FEA and MBS to optimize mechanical test rig design
   -	Developed safety concept and conducted Failure Mode and Effects Analysis (FMEA)
-  -	Developed a robust and low-cost torque measurement unit for measurements at rotational speeds of up to 50,000 rpm
+  -	Developed a robust and low-cost torque measurement system for measurements at rotational speeds of up to 50,000 rpm
 
 **Conducted comprehensive test runs on function, efficiency, and dynamics**
   -	Developed test programs and procedures for investigating function, dynamics, and efficiency
@@ -115,8 +115,8 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
   -	Developed an MBS model of a 9-speed automatic transmission to analyze impact of form-fit shift on dynamics and comfort
 
 **Optimized components of Diesel engine**
-  -	Reduced weigh of a Diesel engine's oil pan by approx. 25% through geometry optimization
-  -	Optimized geometry of a Diesel engine's outlet duct resulting in a flow loss reduction of approx. 40%
+  -	Reduced weigh of a Diesel engine's oil pan by ~25% through geometry optimization
+  -	Optimized geometry of a Diesel engine's outlet duct resulting in a flow loss reduction of ~40%
 
 **Published two research articles in the field of drive technology**
   -	[Dynamic analysis of powershifts with form-fit clutches in automatic transmissions](https://doi.org/10.1504/IJPT.2021.120303)
@@ -128,8 +128,8 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
   -	Automotive suppliers and OEMs successfully use model for product development
 
 **Developed an image-based method for measuring plate movements in disengaged wet brakes**
-  -	Developed low-cost setup of approx. $500 which can be universally applied to any brake system and does not require any distance sensors
-  -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with approx. 8 µm accuracy
+  -	Developed low-cost setup of ~$500 which can be universally applied to any brake system and does not require any distance sensors
+  -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with ~8 µm accuracy
 
 **Published three research articles in the field of Machine Learning and Computer Vision**
   -	[A methodology for data-driven modeling and prediction of the drag losses of wet clutches](https://doi.org/10.1007/s10010-023-00661-y)
