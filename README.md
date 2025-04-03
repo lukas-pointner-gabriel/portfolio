@@ -61,7 +61,7 @@ _Rendering of developed drive unit (Source: FZG)_
   -	Developed test programs and procedures for investigating function, dynamics, and efficiency
   -	Identified and resolved key failure modes in components resulting in enhanced reliability
   -	Significantly improved vibration behavior of high-speed planetary gearset through optimizations of gear geometry
-  -	Improved gearset efficiency by 2.2% through mono fluid circuit (i.e., cooling or lubricating power electronics, electric motor, and gearset within a single circuit)
+  -	Improved gearset efficiency by 2.2% through mono-fluid approach (i.e., cooling or lubricating power electronics, electric motor, and gearset within a single circuit)
 
 **Published three research articles in the field of drive units**
   -	[Electric Drive Units: A Set-Up for Investigating Function, Efficiency, and Dynamics](https://doi.org/10.3390/vehicles6030067)
