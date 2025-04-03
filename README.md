@@ -46,16 +46,16 @@ A highly regarded engineering expert in drivetrain development, manufacturing, a
 
 _Rendering of developed drive unit (Source: FZG)_
 
-**Developed high-speed multi-speed drive unit with maximum motor speed of 50.000 rpm**
+**Developed high-speed multi-speed drive unit with maximum motor speed of 50,000 rpm**
   -	Developed innovative drive unit architecture, leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
   -	Dimensioned and optimized gearset components (gears, rotating shafts, bearings, differential, and sealings)
 
 **Developed test rig for investigating function, efficiency, and dynamics of drive units**
-  -	Led the development, design, manufacturing, assembly, and operation of the test rig enabling for investigating drive units with a maximum output torque of 3000 Nm and a maximum motor speed of 50.000 rpm
+  -	Led the development, design, manufacturing, assembly, and operation of the test rig enabling for investigating drive units with a maximum output torque of 3000 Nm and a maximum motor speed of 50,000 rpm
   -	Led a cross-functional team (mechanical, software, electronics) of 10 engineers and technicians to put developed test rig and drive unit in operation while meeting strict deadlines
   -	Conducted FEA and MBS to optimize mechanical test rig design
   -	Developed safety concept and conducted Failure Mode and Effects Analysis (FMEA)
-  -	Developed a robust and low-cost torque measurement unit for measurements at rotational speeds of up to 50.000 rpm
+  -	Developed a robust and low-cost torque measurement unit for measurements at rotational speeds of up to 50,000 rpm
 
 **Conducted comprehensive test runs on function, efficiency, and dynamics**
   -	Developed test programs and procedures for investigating function, dynamics, and efficiency
