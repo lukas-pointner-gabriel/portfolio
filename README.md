@@ -68,7 +68,7 @@ _Rendering of developed drive unit (Source: FZG)_
 **Conducted comprehensive test runs on function, efficiency, and dynamics**
   -	Developed test programs and procedures for investigating function, dynamics, and efficiency
   -	Identified and resolved key failure modes in components resulting in enhanced reliability
-  -	Significantly improved vibration behavior of high-speed planetary gearset through optimizations of gear geometry
+  -	Improved vibration behavior of planetary gearset by 14% through tooth geometry optimizations
   -	Improved gearset efficiency by 2.2% through mono-fluid approach (i.e., cooling or lubricating power electronics, electric motor, and gearset within a single circuit)
 
 **Published three research articles in the field of drive units**
@@ -149,12 +149,12 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
 
 _Picture of developed Hyperloop pod (Source: WARR Hyperloop)_
 
-**Led design of the propulsion unit of an Hyperloop pod**
-  -	Developed and designed a propulsion unit for realizing 400 km/h pod speed
-  -	Conducted FEA and MBS to optimize design of propulsion unit
+**Led design of the propulsion system of an Hyperloop pod**
+  -	Developed and designed a propulsion system for realizing 500 km/h pod speed
+  -	Conducted FEA and MBS to optimize design of propulsion system
   -	Operated Hyperloop pod on test track in Los Angeles, CA at 324 km/h speed
 
-**Led testing of the propulsion unit of an Hyperloop pod**
+**Led testing of the propulsion system of an Hyperloop pod**
   -	Developed test rig for investigations under near-real conditions like gaps on test track
   -	Manufactured test rig components by milling, turning, and water-jet cutting
   -	Developed test programs and conducted test runs
@@ -165,7 +165,7 @@ _Picture of winning Hyperloop team (Los Angeles, CA, 2017; Source: WARR Hyperloo
 
 ![XXX](/assets/Rendering_propulsion_unit.jpg)
 
-_Rendering of propulsion unit in test configuration (Source: WARR Hyperloop)_
+_Rendering of propulsion system in test configuration (Source: WARR Hyperloop)_
 
 ![XXX](/assets/Rendering_test_rig.png)
 
