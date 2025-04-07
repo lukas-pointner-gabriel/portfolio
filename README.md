@@ -1,13 +1,13 @@
 ![XXX](/assets/Portraitfoto_LukasPointner.jpg)
 
-A highly regarded engineering expert in drivetrain development, manufacturing, and computational analysis, often described as a heavyweight in drive technology. Leads a team at the Technical University of Munich (TUM), focusing on AI-powered drivetrain optimization and advanced system modeling. Brings 15+ years of CAE experience in FEA, MBS, and CFD, combined with strong hands-on manufacturing expertise in machining, welding, and quality management. Designed a next-generation drive unit increasing power density by 90%, along with a breakthrough wet brake drag loss software reducing simulation time from 20 hours to seconds. Extensive experience in test rig development and system-level validation. Recognized with multiple industry awards. Fluent in German and English. Strong project leadership and industry collaboration experience and proficient in MATLAB, Catia V5, and top-tier CAE tools.
+A highly regarded engineering expert in powertrain development, manufacturing, and computational analysis, often described as a heavyweight in drive technology. Leads a team at the Technical University of Munich (TUM), focusing on AI-powered drivetrain optimization and advanced system modeling. Brings 15+ years of CAE experience in CAD, FEA, MBS, and CFD, combined with strong hands-on manufacturing expertise in machining, welding, and quality management. Designed a next-generation drive unit increasing power density by 90%, along with a breakthrough wet brake drag loss software reducing simulation time from 20 hours to seconds. Extensive experience in test rig development and system-level validation. Recognized with multiple awards. Fluent in German and English. Strong project leadership and industry collaboration experience and proficient in Catia V5, MATLAB, and leading CAE tools.
 
 # Skills
 **Soft Skills**
   -	Languages: German (Native) and English (Fluent)
-  -	Leadership: Currently leading a team of five researchers in the field of data-driven modeling
-  -	Presentation: Regularly presented research results to international expert audience
-  -	Project management: Participated in SCRUM project management, start-up, and business training
+  -	Leadership: Leading research teams and cross-functional engineering projects
+  -	Presentation: Presenting research results to international expert audience
+  -	Project management: Participated in SCRUM, start-up, and business training
   -	Organization: Assisted CEO of Scientific Society for Product Development (WiGeP)
 
 **Tools and Software**
@@ -19,17 +19,17 @@ A highly regarded engineering expert in drivetrain development, manufacturing, a
 **Industry-specific Experience and Certification**
   - Consulted OEMs and Tier 1 from automotive sector
   -	Experience in manufacturing engineering (milling, turning, welding, and sheet metal forming)
-  -	Training and certification in quality management (ISO 9001)
-  -	Acquisition of research funds in the field of drive technology
-  -	Teaching student basics in machine design
-  -	15 years of experience in CAD, three years in FEA and MBS, and two years in CFD
+  -	Certified in ISO 9001 quality management
+  -	Acquisition of research funding in the field of drive technology
+  -	Mentoring students and teaching machine design
+  -	15+ years of CAD, 3 years of FEA and MBS, 2 years of CFD experience
 
 # Awards and Recognitions
-  -	Winner Hanns-Voith-Foundation Award (Category: Drive Technology) in 2019
-  -	Winner CTI Young Drive Experts Award in 2018
-  -	Winner SpaceX Hyperloop Pod Competition II in 2017
-  -	Performance Scholarship Technical University of Munich in 2016 and 2017
-  -	Performance Scholarship Technical University of Vienna in 2013 and 2015
+  -	Hanns-Voith-Foundation Award (Drive Technology Category) - 2019
+  -	CTI Young Drive Experts Award - 2018
+  -	Winner SpaceX Hyperloop Pod Competition II (Los Angeles, CA) - 2017
+  -	Performance Scholarship, Technical University of Munich - 2016 and 2017
+  -	Performance Scholarship, Technical University of Vienna - 2013 and 2015
 
 # Education
 **Doctor’s Degree in Drive Technology** - Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
