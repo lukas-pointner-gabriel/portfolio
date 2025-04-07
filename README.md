@@ -33,16 +33,20 @@ A highly regarded engineering expert in powertrain development, manufacturing, a
 
 # Education
 **Doctor’s Degree in Drive Technology**<br>
-Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
+Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)<br>
+Doctoral examination on 30 June 2025; thesis on the efficiency of wet brake and clutch systems
 
 **Master’s Degree in Mechanical Engineering**<br>
-Technical University of Munich (TUM), Munich, Germany (_2015 -- 2018_)
+Technical University of Munich (TUM), Munich, Germany (_2015 -- 2018_)<br>
+Graduated with high distinction; thesis on form-fit shift characterization using MBS 
 
 **Bachelor's Degree in Mechanical Engineering**<br>
-Technical University of Vienna, Vienna, Austria (_2012 -- 2015_)
+Technical University of Vienna, Vienna, Austria (_2012 -- 2015_)<br>
+Graduated with distinction; thesis on an analytical approach for radial pumps in turbine operating mode
 
 **Technical College Degree in Automation Technology**<br>
-Technical College of Neufelden, Neufelden, Austria (_2006 -- 2011_)
+Technical College of Neufelden, Neufelden, Austria (_2006 -- 2011_)<br>
+Graduated with high distinction; final project on developing a pick-and-place robot (tripod)
 
 # Professional Experience
 ## Experience in the Field of Drive Units
