@@ -17,8 +17,8 @@ A highly regarded engineering expert in powertrain development, manufacturing, a
   -	Other: MS Office, LaTeX, Git, LabVIEW, Mathcad, and FZG driveline simulation software
 
 **Industry-specific Experience and Certification**
-  - Consulted OEMs and Tier 1 from automotive sector
-  -	Experience in manufacturing engineering (milling, turning, welding, and sheet metal forming)
+  - Consulting automotive OEMs and suppliers on geartrain malfunction diagnostics and optimization
+  -	Experience in manufacturing engineering (milling, turning, welding, sheet metal forming, etc.)
   -	Certified in ISO 9001 quality management
   -	Acquisition of research funding in the field of drive technology
   -	Mentoring students and teaching machine design
