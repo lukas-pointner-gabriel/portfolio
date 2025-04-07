@@ -59,11 +59,11 @@ _Rendering of developed drive unit (Source: FZG)_
   -	Dimensioned and optimized gearset components (gears, rotating shafts, bearings, differential, and sealings)
 
 **Developed test rig for investigating function, efficiency, and dynamics of drive units**
-  -	Led the development, design, manufacturing, assembly, and operation of the test rig enabling for investigating drive units with a maximum output torque of 3000 Nm and a maximum motor speed of 50,000 rpm
-  -	Led a cross-functional team (mechanical, software, electronics) of 10 engineers and technicians to put developed test rig and drive unit in operation while meeting strict deadlines
+  -	Led a cross-functional team of 10 engineers and technicians (mechanical, software, electronics) to develop, design, manufacture, assembly, and operate test rig while meeting strict deadlines
+  -	Designed test rig for investigating drive units with up to 3000 Nm torque and 50,000 rpm motor speed
   -	Conducted FEA and MBS to optimize mechanical test rig design
-  -	Developed safety concept and conducted Failure Mode and Effects Analysis (FMEA)
-  -	Developed a robust and low-cost torque measurement system for measurements at rotational speeds of up to 50,000 rpm
+  -	Designed a reaction torque measurement system, saving ~$15,000 compared to traditional sensors
+  -	Conducted risk assessments (FMEA) and implemented safety measures
 
 **Conducted comprehensive test runs on function, efficiency, and dynamics**
   -	Developed test programs and procedures for investigating function, dynamics, and efficiency
