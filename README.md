@@ -32,13 +32,21 @@ A highly regarded engineering expert in powertrain development, manufacturing, a
   -	Performance Scholarship, Technical University of Vienna - 2013 and 2015
 
 # Education
-**Doctor’s Degree in Drive Technology** - Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
+**Doctor’s Degree in Drive Technology**
 
-**Master’s Degree in Mechanical Engineering** - Technical University of Munich, Germany (_2015 -- 2018_)
+Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)
 
-**Bachelor's Degree in Mechanical Engineering** - Technical University of Vienna, Austria (_2012 -- 2015_)
+**Master’s Degree in Mechanical Engineering**
 
-**Technical College Degree in Automation Technology** - Technical College of Neufelden, Austria (_2006 -- 2011_)
+Technical University of Munich (TUM), Munich, Germany (_2015 -- 2018_)
+
+**Bachelor's Degree in Mechanical Engineering**
+
+Technical University of Vienna, Vienna, Austria (_2012 -- 2015_)
+
+**Technical College Degree in Automation Technology**
+
+Technical College of Neufelden, Neufelden, Austria (_2006 -- 2011_)
 
 # Professional Experience
 ## Experience in the Field of Drive Units
