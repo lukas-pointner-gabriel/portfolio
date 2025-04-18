@@ -65,6 +65,7 @@ _Rendering of developed drive unit (Source: FZG)_
   -	Designed test rig for investigating drive units with up to 3000 Nm torque and 50,000 rpm motor speed
   -	Conducted FEA and MBS to optimize mechanical test rig design
   -	Designed a reaction torque measurement system, saving ~$15,000 compared to traditional sensors
+  -	Selected, installed, and calibrated instrumentations for data collection and testing such as thermocouples, strain gauges, accelerometers
   -	Conducted risk assessments (FMEA) and implemented safety measures
 
 **Conducted comprehensive test runs on function, efficiency, and dynamics**
@@ -87,7 +88,7 @@ _Picture of developed, built, and operated drive unit (Source: FZG)_
 _Picture of developed, built, and operated drive unit test rig (Source: FZG)_
 
 ## Experience in the Field of Wet Brake and Clutch Systems
-**Dimensioned wet brake system for electric vehicles**
+**Dimensioned wet brake system for electric vehicles to avoid brake dust emissions**
   -	Analyzed possible driveline topologies with focus on wet brakes 
   -	Dimensioned wet brake system integrated into drive unit avoiding brake dust emissions, requiring zero maintenance, and reducing unsprung wheel mass
   -	Conduced thermal and drag loss simulations
@@ -95,6 +96,7 @@ _Picture of developed, built, and operated drive unit test rig (Source: FZG)_
 **Investigated wet brake and clutch systems from automotive and industrial applications**
   -	Developed test programs for investigating friction, drag loss, NVH, and damage behavior
   -	Conducted experimental tests on wet brake and clutch systems of limited-slip differentials, transfer cases, dual-clutch transmissions, automatic transmissions, and torque-vectoring systems
+  -	Selected, installed, and calibrated instrumentations for data collection and testing such as thermocouples and strain gauges
   -	Developed CFD model for time-efficient determination of oil distribution and drag torque
 
 **Developed a software tool for fast and accurate drag loss prediction**
