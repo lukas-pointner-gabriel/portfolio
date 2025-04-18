@@ -11,7 +11,7 @@ A highly regarded engineering expert in powertrain development, manufacturing, a
   -	Presentation: Presenting research results to international expert audience
   -	Project management: Participated in SCRUM, start-up, and business training
   -	Organization: Assisted CEO of Scientific Society for Product Development (WiGeP)
-  -	Demonstrated ability to manage and deliver multiple projects concurrently, meeting tight deadlines without compromising quality
+  -	Multitasking: Demonstrated ability to manage and deliver multiple projects concurrently, meeting tight deadlines without compromising quality
 
 **Tools and Software**
   -	Coding: MATLAB/Simulink and Python
