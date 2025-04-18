@@ -23,7 +23,6 @@ A highly regarded engineering expert in powertrain development, manufacturing, a
   - Advanced knowledge of mechanical systems with focus on automotive powertrains
   - Consulting automotive OEMs and suppliers on geartrain malfunction diagnostics and optimization
   -	Experience in manufacturing engineering (milling, turning, welding, sheet metal forming, etc.)
-  -	Certified in ISO 9001 quality management
   -	Acquisition of research funding in the field of drive technology
   -	Mentoring students and teaching machine design
   -	15+ years of CAD, 3 years of FEA and MBS, 2 years of CFD experience
@@ -67,7 +66,7 @@ _Rendering of developed drive unit (Source: FZG)_
   -	Designed test rig for investigating drive units with up to 3000 Nm torque and 50,000 rpm motor speed
   -	Conducted FEA and MBS to optimize mechanical test rig design
   -	Designed a torque measurement system, saving ~$15,000 compared to traditional sensors
-  -	Selected, installed, and calibrated instrumentations for data collection and testing such as thermocouples, strain gauges, accelerometers
+  -	Selected, installed, and calibrated instrumentations for data collection and testing such as thermocouples, strain gauges, and accelerometers
   -	Conducted risk assessments (FMEA) and implemented safety measures
 
 **Conducted comprehensive test runs on function, efficiency, and dynamics**
