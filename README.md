@@ -66,7 +66,7 @@ _Rendering of developed drive unit (Source: FZG)_
   -	Led a cross-functional team of 10 engineers and technicians (mechanical, software, electronics) to develop, design, manufacture, assembly, and operate test rig while meeting strict deadlines
   -	Designed test rig for investigating drive units with up to 3000 Nm torque and 50,000 rpm motor speed
   -	Conducted FEA and MBS to optimize mechanical test rig design
-  -	Designed a reaction torque measurement system, saving ~$15,000 compared to traditional sensors
+  -	Designed a torque measurement system, saving ~$15,000 compared to traditional sensors
   -	Selected, installed, and calibrated instrumentations for data collection and testing such as thermocouples, strain gauges, accelerometers
   -	Conducted risk assessments (FMEA) and implemented safety measures
 
