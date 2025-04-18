@@ -11,6 +11,7 @@ A highly regarded engineering expert in powertrain development, manufacturing, a
   -	Presentation: Presenting research results to international expert audience
   -	Project management: Participated in SCRUM, start-up, and business training
   -	Organization: Assisted CEO of Scientific Society for Product Development (WiGeP)
+  -	
 
 **Tools and Software**
   -	Programming: MATLAB/Simulink and Python
@@ -19,6 +20,7 @@ A highly regarded engineering expert in powertrain development, manufacturing, a
   -	Other: MS Office, LaTeX, Git, LabVIEW, Mathcad, and FZG driveline simulation software
 
 **Industry-specific Experience and Certification**
+  - Advanced knowledge of mechanical systems with focus on automotive powertrains
   - Consulting automotive OEMs and suppliers on geartrain malfunction diagnostics and optimization
   -	Experience in manufacturing engineering (milling, turning, welding, sheet metal forming, etc.)
   -	Certified in ISO 9001 quality management
