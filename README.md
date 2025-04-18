@@ -14,7 +14,7 @@ A highly regarded engineering expert in powertrain development, manufacturing, a
   -	
 
 **Tools and Software**
-  -	Programming: MATLAB/Simulink and Python
+  -	Coding: MATLAB/Simulink and Python
   -	CAE: CATIA V5, Solid Edge, Autodesk Inventor, ANSYS Mechanical, SIMPACK, and Simerics MP+
   -	Machine Learning and Computer Vision: Tensorflow, scikit-learn, GPflow, and OpenCV
   -	Other: MS Office, LaTeX, Git, LabVIEW, Mathcad, and FZG driveline simulation software
