@@ -17,7 +17,7 @@ A hands-on engineer with a deep understanding of engineering systems, focusing o
   -	Coding: MATLAB/Simulink and Python
   -	CAE: CATIA, Solid Edge, Autodesk Inventor, ANSYS Mechanical, SIMPACK, and Simerics MP+
   -	Machine Learning and Computer Vision: Tensorflow, scikit-learn, GPflow, and OpenCV
-  -	Other: MS Office, LaTeX, Git, NI LabVIEW, Mathcad, and FZG driveline simulation software
+  -	Other: MS Office, JAMA, LaTeX, Git, NI LabVIEW, Mathcad, and FZG driveline simulation software
 
 **Industry-specific Experience and Certification**
   - Advanced knowledge of mechanical systems with focus on automotive powertrains
