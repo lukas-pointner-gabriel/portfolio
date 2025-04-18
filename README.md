@@ -1,4 +1,4 @@
-![XXX](/assets/Portraitfoto_LukasPointner.jpg)
+![XXX](/assets/2Q8A0107.JPG)
 
 A highly regarded engineering expert in powertrain development, manufacturing, and computational analysis, often described as a heavyweight in drive technology. Leads a team at the Technical University of Munich (TUM), focusing on AI-powered drivetrain optimization and advanced system modeling. Brings 15+ years of CAE experience in CAD, FEA, MBS, and CFD, combined with strong hands-on manufacturing expertise in machining, welding, and quality management. Designed a next-generation drive unit increasing power density by 90%, along with a breakthrough wet brake drag loss software reducing simulation time from 20 hours to seconds. Extensive experience in test rig development as well as testing and validation. Recognized with multiple awards. Fluent in German and English. Strong project leadership and industry collaboration experience and proficient in Catia V5, MATLAB, and leading CAE tools.
 
