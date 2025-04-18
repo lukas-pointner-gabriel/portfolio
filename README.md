@@ -58,7 +58,7 @@ Graduated with high distinction; final project on developing a pick-and-place ro
 _Rendering of developed drive unit (Source: FZG)_
 
 **Developed high-speed multi-speed drive unit with maximum motor speed of 50,000 rpm**
-  -	Developed innovative drive unit architecture, leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
+  -	Developed innovative drive unit architecture – including the motor, inverter, and gearset – leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
   -	Dimensioned and optimized gearset components (gears, rotating shafts, bearings, differential, and sealings)
 
 **Developed test rig for investigating function, efficiency, and dynamics of drive units**
