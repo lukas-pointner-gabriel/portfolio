@@ -1,4 +1,4 @@
-![XXX](/assets/2Q8A0107.JPG)
+[//]: # ![XXX](/assets/2Q8A0107.JPG)
 
 _Picture of Lukas Pointner-Gabriel_
 
