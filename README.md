@@ -10,9 +10,8 @@ _Picture of Lukas Pointner-Gabriel_
   -	Languages: German (Native) and English (Fluent)
   -	Leadership: Leading research teams and cross-functional engineering projects
   -	Presentation: Presenting research results to international expert audience
-  -	Project management: Participated in SCRUM, start-up, and business training
+  -	Project management: Managed multiple projects concurrently while meeting tight deadlines, participated in SCRUM and business training
   -	Organization: Assisted CEO of Scientific Society for Product Development (WiGeP)
-  -	Multitasking: Demonstrated ability to manage multiple projects concurrently while meeting tight deadlines
 
 **Tools and Software**
   -	Coding: MATLAB/Simulink and Python
