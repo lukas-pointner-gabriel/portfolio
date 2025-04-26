@@ -10,9 +10,9 @@ _Picture of Lukas Pointner-Gabriel_
   -	Languages: German (Native) and English (Fluent)
   -	Leadership: Leading research teams and cross-functional engineering projects
   -	Presentation: Presenting research results to international expert audience
-  -	Project management: Managed concurrent research projects, participated in SCRUM, start-up, and business training
+  -	Project management: Participated in SCRUM, start-up, and business training
   -	Organization: Assisted CEO of Scientific Society for Product Development (WiGeP)
-  -	Multitasking: Demonstrated ability to manage and deliver multiple projects concurrently, meeting tight deadlines without compromising quality
+  -	Multitasking: Demonstrated ability to manage multiple projects concurrently while meeting tight deadlines
 
 **Tools and Software**
   -	Coding: MATLAB/Simulink and Python
@@ -27,7 +27,7 @@ _Picture of Lukas Pointner-Gabriel_
   -	Acquisition of research funding in the field of drive technology
   -	Mentoring students and teaching machine design
   -	15+ years of CAD, 3 years of FEA and MBS, 2 years of CFD experience
-  -	8+ years of experience in managing and conducting research projects
+  -	7 years of experience in managing and conducting research projects
   -	8+ years of testing and validation experience within the automotive industry
   -	5 years of Machine Learning and Machine Vision experience
   -	2 years of robotics experience
