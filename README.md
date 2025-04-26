@@ -1,6 +1,6 @@
-<!---![XXX](/assets/2Q8A0107.JPG)-->
+![XXX](/assets/2Q8A0107.JPG)
 
-<!---_Picture of Lukas Pointner-Gabriel_-->
+_Picture of Lukas Pointner-Gabriel_
 
 # Summary
 A hands-on engineer with a deep understanding of engineering systems, focusing on powertrain development, manufacturing, and computational analysis. Leads a team at the Technical University of Munich (TUM), focusing on AI-powered drivetrain optimization and advanced system modeling. Brings 15+ years of CAE experience in CAD, FEA, MBS, and CFD, combined with strong hands-on manufacturing expertise in machining, welding, and quality management. Designed a next-generation drive unit increasing power density by 90%, along with a braking system for electric vehicles causing zero emissions. Extensive experience in test rig development as well as testing and validation. Recognized with multiple awards. Fluent in German and English. Strong project leadership and industry collaboration experience and proficient in Catia, MATLAB, and leading CAE tools.
@@ -177,7 +177,7 @@ _Rendering of propulsion system in test configuration (Source: WARR Hyperloop)_
 
 _Rendering of developed and operated test rig (Source: WARR Hyperloop)_
 
-## Further Experience in the Field of Engineering
+## Experience in Robotics
 ![XXX](/assets/Rendering_tripod.png)
 
 _Rendering of developed, built, and operated pick-and-place robot (tripod)_
