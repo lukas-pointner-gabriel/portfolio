@@ -17,7 +17,7 @@ A hands-on engineer with a deep understanding of engineering systems, focusing o
 **Tools and Software**
   -	Coding: MATLAB/Simulink and Python
   -	CAE: CATIA, Solid Edge, Autodesk Inventor, ANSYS Mechanical, SIMPACK, and Simerics MP+
-  -	Machine Learning and Computer Vision: Tensorflow, scikit-learn, GPflow, and OpenCV
+  -	Machine Learning and Machine Vision: Tensorflow, scikit-learn, GPflow, and OpenCV
   -	Other: MS Office, JAMA, LaTeX, Git, NI LabVIEW, Mathcad, and FZG driveline simulation software
 
 **Industry-specific Experience and Certification**
@@ -27,6 +27,10 @@ A hands-on engineer with a deep understanding of engineering systems, focusing o
   -	Acquisition of research funding in the field of drive technology
   -	Mentoring students and teaching machine design
   -	15+ years of CAD, 3 years of FEA and MBS, 2 years of CFD experience
+  -	8+ years of experience in managing and conducting research projects
+  -	8+ years of testing and validation experience within the automotive industry
+  -	5 years of Machine Learning and Machine Vision experience
+  -	2 years of robotics experience
 
 # Awards and Recognitions
   -	Hanns-Voith-Foundation Award (Drive Technology Category) - 2019
@@ -137,7 +141,7 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
   -	[Dynamic analysis of powershifts with form-fit clutches in automatic transmissions](https://doi.org/10.1504/IJPT.2021.120303)
   -	[Characterization of High-dynamic Form-fit Shifts in Automatic Transmissions](https://doi.org/10.1007/s38311-019-0122-3)
 
-## Experience in the Field of Machine Learning and Computer Vision
+## Experience in the Field of Machine Learning and Machine Vision
 **Developed a drag loss prediction model of wet brakes and clutches**
   -	Developed model enables predictions within split-seconds and an MRE of maximum 14.2%
   -	Automotive suppliers and OEMs successfully use model for product development
