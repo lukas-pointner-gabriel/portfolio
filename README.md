@@ -16,7 +16,7 @@
   -	Machine Learning and Machine Vision: Tensorflow, scikit-learn, GPflow, and OpenCV
   -	Other: MS Office, JAMA, LaTeX, Git, NI LabVIEW, Mathcad, and FZG driveline simulation software
 
-**Industry-specific Experience and Certification**
+**Industry-specific Experience**
   - Advanced knowledge of mechanical systems with focus on automotive powertrains
   - Consulting OEMs and suppliers on malfunction diagnostics and optimization of drive systems
   -	Experience in manufacturing engineering (milling, turning, welding, sheet metal forming, etc.)
