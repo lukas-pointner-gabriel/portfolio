@@ -147,7 +147,7 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
 
 **Developed a software prototype for measuring plate movements in disengaged wet brakes**
   -	Developed low-cost setup of ~$500 which can be universally applied to any brake system and does not require any distance sensors
-  -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with ~8 µm accuracy
+  -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with 8 µm accuracy
 
 **Published three research articles in the field of Machine Learning and Computer Vision**
   -	[A methodology for data-driven modeling and prediction of the drag losses of wet clutches](https://doi.org/10.1007/s10010-023-00661-y)
