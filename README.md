@@ -18,7 +18,7 @@
 
 **Industry-specific Experience**
   - Advanced knowledge of mechanical systems with focus on automotive powertrains
-  - Consulting OEMs and suppliers on malfunction diagnostics and optimization of drive systems
+  - Experience in consulting OEMs and suppliers on malfunction diagnostics and optimization of drive systems
   -	Experience in manufacturing engineering (milling, turning, welding, sheet metal forming, etc.)
   -	Acquisition of research funding in the field of drive technology
   -	Mentoring students and teaching machine design
