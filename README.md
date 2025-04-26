@@ -10,7 +10,7 @@ _Picture of Lukas Pointner-Gabriel_
   -	Languages: German (Native) and English (Fluent)
   -	Leadership: Leading research teams and cross-functional engineering projects
   -	Presentation: Presenting research results to international expert audience
-  -	Project management: Participated in SCRUM, start-up, and business training
+  -	Project management: Managed concurrent research projects, participated in SCRUM, start-up, and business training
   -	Organization: Assisted CEO of Scientific Society for Product Development (WiGeP)
   -	Multitasking: Demonstrated ability to manage and deliver multiple projects concurrently, meeting tight deadlines without compromising quality
 
@@ -22,7 +22,7 @@ _Picture of Lukas Pointner-Gabriel_
 
 **Industry-specific Experience and Certification**
   - Advanced knowledge of mechanical systems with focus on automotive powertrains
-  - Consulting automotive OEMs and suppliers on geartrain malfunction diagnostics and optimization
+  - Consulting automotive OEMs and suppliers on malfunction diagnostics and optimization of drive systems
   -	Experience in manufacturing engineering (milling, turning, welding, sheet metal forming, etc.)
   -	Acquisition of research funding in the field of drive technology
   -	Mentoring students and teaching machine design
@@ -106,8 +106,8 @@ _Picture of developed, built, and operated drive unit test rig (Source: FZG)_
   -	Selected, installed, and calibrated instrumentations for data collection and testing such as thermocouples and strain gauges
   -	Developed CFD model for time-efficient determination of oil distribution and drag torque
 
-**Developed a software tool for fast and accurate drag loss prediction**
-  -	Developed data-driven prediction model using Gaussian process regression
+**Developed software tool for fast drag loss prediction**
+  -	Developed software for automotive OEMs and suppliers, cutting wet brake and clutch drag loss prediction time from 20 hours to split-seconds
   -	Programmed graphical user interface for user-oriented usage
 
 **Published seven research articles in the field of wet brake and clutch systems**
