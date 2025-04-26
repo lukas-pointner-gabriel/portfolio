@@ -124,21 +124,21 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
   -	Developed test programs for investigating friction and damage behavior
   -	Conducted experimental tests on component test rigs
 
-**Development of an efficient form-fit shifting element**
+**Developed an efficient form-fit shifting element**
   - Contributed to the development of a form-fit shifting element for automatic transmission allowing the drag losses to be reduced by up to 90% compared to wet multi-plate shifting elements
   -	Developed an MBS model of the shifting element to analyze the impact of form-fit shift on dynamics and comfort and validated the model based on experimental test runs
   -	Developed an MBS model of a 9-speed automatic transmission to analyze impact of form-fit shift on dynamics and comfort
 
 **Optimized Diesel engine components**
-  -	Reduced weigh of a Diesel engine's oil pan by ~25% through geometry optimization
-  -	Optimized geometry of a Diesel engine's outlet duct resulting in a flow loss reduction of ~40%
+  -	Reduced weigh of a Diesel engine's oil pan by approx. 25% through geometry optimization
+  -	Optimized geometry of a Diesel engine's outlet duct resulting in a flow loss reduction of approx. 40%
 
 **Published two research articles in the field of drive technology**
   -	[Dynamic analysis of powershifts with form-fit clutches in automatic transmissions](https://doi.org/10.1504/IJPT.2021.120303)
   -	[Characterization of High-dynamic Form-fit Shifts in Automatic Transmissions](https://doi.org/10.1007/s38311-019-0122-3)
 
 ## Experience in the Field of Machine Learning and Machine Vision
-**Developed a drag loss prediction model of wet brakes and clutches**
+**Developed an AI-based software for fast wet brake drag loss prediction**
   -	Developed model enables predictions within split-seconds and an MRE of maximum 14.2%
   -	OEMs and suppliers successfully use model for product development
 
