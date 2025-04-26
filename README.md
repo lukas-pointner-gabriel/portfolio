@@ -102,8 +102,8 @@ _Picture of developed, built, and operated drive unit test rig (Source: FZG)_
   -	Selected, installed, and calibrated instrumentations for data collection and testing such as thermocouples and strain gauges
   -	Developed CFD model for time-efficient determination of oil distribution and drag torque
 
-**Developed software tool for fast drag loss prediction**
-  -	Developed software for OEMs and suppliers, cutting wet brake and clutch drag loss prediction time from 20 hours to split-seconds
+**Developed software for fast drag loss prediction**
+  -	Developed a software for OEMs and suppliers for wet brake drag loss prediction, cutting calculation time from 20 hours to split-seconds
   -	Programmed graphical user interface for user-oriented usage
 
 **Published seven research articles in the field of wet brake and clutch systems**
