@@ -61,6 +61,7 @@ _Rendering of developed drive unit (Source: FZG)_
 **Developed high-speed multi-speed drive unit with maximum motor speed of 50,000 rpm**
   -	Developed innovative drive unit architecture – including the motor, inverter, and gearset – leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
   -	Dimensioned and optimized gearset components (gears, rotating shafts, bearings, differential, and sealings)
+  -	Partnered with 40+ experts in motor, inverter, and gearset technologies to achieve key project milestones
 
 **Developed test rig for investigating function, efficiency, and dynamics of drive units**
   -	Led a cross-functional team of 10 engineers and technicians (mechanical, software, electronics) to develop, design, manufacture, assembly, and operate test rig while meeting strict deadlines
