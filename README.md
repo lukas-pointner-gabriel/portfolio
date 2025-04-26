@@ -142,7 +142,7 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
   -	Developed model enables predictions within split-seconds and an MRE of maximum 14.2%
   -	OEMs and suppliers successfully use model for product development
 
-**Developed a software prototype for measuring plate movements in disengaged wet brakes**
+**Developed a software prototype for measuring plate movements in wet brakes**
   -	Developed low-cost setup of ~$500 which can be universally applied to any brake system and does not require any distance sensors
   -	Developed software for measuring plate movements based on edge detection and segmentation algorithms with 8 µm accuracy
 
