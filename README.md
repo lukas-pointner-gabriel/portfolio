@@ -20,7 +20,7 @@ _Picture of Lukas Pointner-Gabriel_
 
 **Industry-specific Experience and Certification**
   - Advanced knowledge of mechanical systems with focus on automotive powertrains
-  - Consulting automotive OEMs and suppliers on malfunction diagnostics and optimization of drive systems
+  - Consulting OEMs and suppliers on malfunction diagnostics and optimization of drive systems
   -	Experience in manufacturing engineering (milling, turning, welding, sheet metal forming, etc.)
   -	Acquisition of research funding in the field of drive technology
   -	Mentoring students and teaching machine design
@@ -105,7 +105,7 @@ _Picture of developed, built, and operated drive unit test rig (Source: FZG)_
   -	Developed CFD model for time-efficient determination of oil distribution and drag torque
 
 **Developed software tool for fast drag loss prediction**
-  -	Developed software for automotive OEMs and suppliers, cutting wet brake and clutch drag loss prediction time from 20 hours to split-seconds
+  -	Developed software for OEMs and suppliers, cutting wet brake and clutch drag loss prediction time from 20 hours to split-seconds
   -	Programmed graphical user interface for user-oriented usage
 
 **Published seven research articles in the field of wet brake and clutch systems**
@@ -142,7 +142,7 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
 ## Experience in the Field of Machine Learning and Machine Vision
 **Developed a drag loss prediction model of wet brakes and clutches**
   -	Developed model enables predictions within split-seconds and an MRE of maximum 14.2%
-  -	Automotive suppliers and OEMs successfully use model for product development
+  -	OEMs and suppliers successfully use model for product development
 
 **Developed a software prototype for measuring plate movements in disengaged wet brakes**
   -	Developed low-cost setup of ~$500 which can be universally applied to any brake system and does not require any distance sensors
