@@ -26,7 +26,7 @@ _Picture of Lukas Pointner-Gabriel_
   -	Acquisition of research funding in the field of drive technology
   -	Mentoring students and teaching machine design
   -	15+ years of CAD, 3 years of FEA and MBS, 2 years of CFD experience
-  -	7 years of experience in managing and conducting research projects
+  -	8+ years of experience in managing and conducting research projects
   -	8+ years of testing and validation experience within the automotive industry
   -	5 years of Machine Learning and Machine Vision experience
   -	2 years of robotics experience
