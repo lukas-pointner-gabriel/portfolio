@@ -64,11 +64,9 @@ Technical College of Neufelden, Neufelden, Austria<br>
 
 ![XXX](/assets/Rendering_drive_unit.png)
 
-_Rendering of developed drive unit (Source: FZG)_
-
 ![XXX](/assets/Picture_drive_unit.jpg)
 
-_Picture of developed, built, and operated drive unit (Source: FZG)_
+_Rendering and picture of developed, built, and operated drive unit (Source: FZG)_
 
 **Developed test rig for investigating function, efficiency, and dynamics of drive units**
   -	Led a cross-functional team of 10 engineers and technicians (mechanical, software, electronics) to develop, design, manufacture, assembly, and operate test rig while meeting strict deadlines
