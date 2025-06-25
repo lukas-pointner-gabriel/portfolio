@@ -122,18 +122,18 @@ _Structure-borne sound measurement (Source: FZG)_
   -	[Influence of Water Contamination, Iron Particles, and Energy Input on the NVH Behavior of Wet Clutches](https://doi.org/10.3390/lubricants11110459)
 
 ## Further Experience in Drive Technology
-![XXX](/assets/MBS_model_automatic_transmission.jpg)
-
-_MBS model of 9-speed automatic transmission (Source: FZG)_
-
 **Investigated synchronizers for manual transmissions**
   -	Developed test programs for investigating friction and damage behavior
   -	Conducted experimental tests on component test rigs
 
-**Developed an efficient form-fit shifting element**
+**Developed an low-loss form-fit shifting element**
   - Contributed to the development of a form-fit shifting element for automatic transmission allowing the drag losses to be reduced by up to 90% compared to wet multi-plate shifting elements
   -	Developed an MBS model of the shifting element to analyze the impact of form-fit shift on dynamics and comfort and validated the model based on experimental test runs
   -	Developed an MBS model of a 9-speed automatic transmission to analyze impact of form-fit shift on dynamics and comfort
+
+![XXX](/assets/MBS_model_automatic_transmission.jpg)
+
+_MBS model of 9-speed automatic transmission (Source: FZG)_
 
 **Optimized Diesel engine components**
   -	Reduced weigh of a Diesel engine's oil pan by approx. 25% through geometry optimization
@@ -158,38 +158,38 @@ _MBS model of 9-speed automatic transmission (Source: FZG)_
   -	[A methodology for image-based measurement of plate movement in disengaged wet clutches](https://doi.org/10.1038/s41598-024-58012-y)
 
 ## Experience in Hyperloop
-![XXX](/assets/Picture_Hyperloop_pod.jpg)
-
-_Picture of developed Hyperloop pod (Source: WARR Hyperloop)_
-
 **Led design of the propulsion system of an Hyperloop pod**
   -	Developed and designed a propulsion system for realizing 500 km/h pod speed
   -	Conducted FEA and MBS to optimize design of propulsion system
-  -	Operated Hyperloop pod on test track in Los Angeles, CA at 324 km/h speed
+  -	Operated Hyperloop pod on test track in Los Angeles, California at 324 km/h speed
+
+![XXX](/assets/Rendering_propulsion_unit.jpg)
+
+_Rendering of propulsion system in test configuration (Source: WARR Hyperloop)_
 
 **Led testing of the propulsion system of an Hyperloop pod**
   -	Developed test rig for investigations under near-real conditions like gaps on test track
   -	Manufactured test rig components by milling, turning, and water-jet cutting
   -	Developed test programs and conducted test runs
    
-<!-- ![XXX](/assets/Picture_Hyperloop_team.png) -->
-
-<!-- _Picture of winning Hyperloop team (Los Angeles, CA, 2017; Source: WARR Hyperloop)_ -->
-
-![XXX](/assets/Rendering_propulsion_unit.jpg)
-
-_Rendering of propulsion system in test configuration (Source: WARR Hyperloop)_
-
 ![XXX](/assets/Rendering_test_rig.png)
 
 _Rendering of developed and operated test rig (Source: WARR Hyperloop)_
 
+![XXX](/assets/Picture_Hyperloop_pod.jpg)
+
+_Picture of developed Hyperloop pod (Source: WARR Hyperloop)_
+
+<!-- ![XXX](/assets/Picture_Hyperloop_team.png) -->
+
+<!-- _Picture of winning Hyperloop team (Los Angeles, CA, 2017; Source: WARR Hyperloop)_ -->
+
 ## Experience in Robotics
-![XXX](/assets/Rendering_tripod.png)
-
-_Rendering of developed, built, and operated pick-and-place robot (tripod)_
-
-**Developed a pick-and-place robot (tripod)**
+**Developed a pick-and-place robot**
   -	Led a team of three engineers in the development, design, and programming of the robot
   -	Dimensioned electric motors for 8 m/s² maximum acceleration of end effector
   -	Enabled the robot to play the Mill Game and learn trajectories
+
+![XXX](/assets/Rendering_tripod.png)
+
+_Rendering of developed, built, and operated pick-and-place robot_
