@@ -102,7 +102,7 @@ _Structure-borne sound measurement (Source: FZG)_
   -	Dimensioned wet brake system integrated into drive unit avoiding brake dust emissions, requiring zero maintenance, and reducing unsprung wheel mass
   -	Conduced thermal and drag loss simulations
 
-![XXX](/assets/Wet_brake.png)
+![XXX](/assets/Wet_Brake.png)
 
 _Topology and integration of zero-emission brake system (Source: FZG)_
 
