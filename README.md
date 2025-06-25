@@ -8,7 +8,7 @@ collaborating across disciplines, skilled in agile methods and cross-functional 
 
 # Skills
 **Soft Skills**
-  -	Languages: German (Native) and English (Fluent)
+  -	Languages: German and English
   -	Leadership: Leading research teams and cross-functional engineering projects
   -	Presentation: Presenting research results to international expert audience
   -	Project management: Managing multiple projects concurrently while meeting tight deadlines, participated in SCRUM and business training
@@ -38,20 +38,20 @@ collaborating across disciplines, skilled in agile methods and cross-functional 
   -	2013 and 2015: Performance Scholarship Technical University of Vienna
 
 # Education
-**Doctor’s Degree in Drive Technology**<br>
-Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)<br>
+**Doctor’s Degree in Drive Technology** (_2018 -- 2025_)<br>
+Gear Research Center (FZG), Munich, Germany<br>
 Doctoral examination in July 2025; Dissertation: Efficiency of wet brake and clutch systems
 
-**Master’s Degree in Mechanical Engineering**<br>
-Technical University of Munich (TUM), Munich, Germany (_2015 -- 2018_)<br>
+**Master’s Degree in Mechanical Engineering** (_2015 -- 2018_)<br>
+Technical University of Munich (TUM), Munich, Germany<br>
 **Graduated with high distinction**; Master’s thesis: Multibody Simulation for Characterization of High-Dynamic Form-Fit Shifts of Alternative Shifting Elements for Automatic Transmissions
 
-**Bachelor's Degree in Mechanical Engineering**<br>
-Technical University of Vienna, Vienna, Austria (_2012 -- 2015_)<br>
+**Bachelor's Degree in Mechanical Engineering** (_2012 -- 2015_)<br>
+Technical University of Vienna, Vienna, Austria<br>
 **Graduated with distinction**; Bachelor’s thesis: An analytical approach for radial pumps in turbine operating mode
 
-**Technical College Degree in Automation Technology**<br>
-Technical College of Neufelden, Neufelden, Austria (_2006 -- 2011_)<br>
+**Technical College Degree in Automation Technology** (_2006 -- 2011_)<br>
+Technical College of Neufelden, Neufelden, Austria<br>
 **Graduated with high distinction**; Diploma thesis: Development and programming of a pick-and-place robot
 
 # Professional Experience
