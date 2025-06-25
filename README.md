@@ -116,7 +116,7 @@ _CFD-simulated flow in disengaged brake (Source: Simerics/FZG)_
   -	Developed a software for OEMs and suppliers for wet brake drag loss prediction, cutting calculation time from 20 hours to split-seconds
   -	Programmed graphical user interface for user-oriented usage
 
-![XXX](/assets/GUI.png)
+![XXX](/assets/GUI.jpg)
 
 _Screenshot of GUI (Source: FZG)_
 
