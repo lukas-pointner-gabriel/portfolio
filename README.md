@@ -134,7 +134,7 @@ _Screenshot of GUI (Source: FZG)_
   -	[Influence of Water Contamination, Iron Particles, and Energy Input on the NVH Behavior of Wet Clutches](https://doi.org/10.3390/lubricants11110459)
 
 ## Further Experience in Drive Technology
-**Developed an low-loss form-fit shifting element**
+**Developed a low-loss form-fit shifting element**
   - Contributed to the development of a form-fit shifting element for automatic transmission allowing the drag losses to be reduced by up to 90% compared to wet multi-plate shifting elements
   -	Developed an MBS model of the shifting element to analyze the impact of form-fit shift on dynamics and comfort and validated the model based on experimental test runs
   -	Developed an MBS model of a 9-speed automatic transmission to analyze impact of form-fit shift on dynamics and comfort
