@@ -102,6 +102,10 @@ _Structure-borne sound measurement (Source: FZG)_
   -	Dimensioned wet brake system integrated into drive unit avoiding brake dust emissions, requiring zero maintenance, and reducing unsprung wheel mass
   -	Conduced thermal and drag loss simulations
 
+![XXX](/assets/Wet_brake.png)
+
+_Topology and integration of zero-emission brake system (Source: FZG)_
+
 **Investigated wet brake and clutch systems from automotive and industrial applications**
   -	Developed test programs for investigating friction, drag loss, NVH, and damage behavior
   -	Conducted experimental tests on wet brake and clutch systems of limited-slip differentials, transfer cases, dual-clutch transmissions, automatic transmissions, and torque-vectoring systems
