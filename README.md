@@ -134,10 +134,6 @@ _Screenshot of GUI (Source: FZG)_
   -	[Influence of Water Contamination, Iron Particles, and Energy Input on the NVH Behavior of Wet Clutches](https://doi.org/10.3390/lubricants11110459)
 
 ## Further Experience in Drive Technology
-**Investigated synchronizers for manual transmissions**
-  -	Developed test programs for investigating friction and damage behavior
-  -	Conducted experimental tests on component test rigs
-
 **Developed an low-loss form-fit shifting element**
   - Contributed to the development of a form-fit shifting element for automatic transmission allowing the drag losses to be reduced by up to 90% compared to wet multi-plate shifting elements
   -	Developed an MBS model of the shifting element to analyze the impact of form-fit shift on dynamics and comfort and validated the model based on experimental test runs
@@ -146,6 +142,10 @@ _Screenshot of GUI (Source: FZG)_
 ![XXX](/assets/MBS_model_automatic_transmission.jpg)
 
 _MBS model of 9-speed automatic transmission (Source: FZG)_
+
+**Investigated synchronizers for manual transmissions**
+  -	Developed test programs for investigating friction and damage behavior
+  -	Conducted experimental tests on component test rigs
 
 **Optimized Diesel engine components**
   -	Reduced weigh of a Diesel engine's oil pan by approx. 25% through geometry optimization
