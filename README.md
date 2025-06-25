@@ -88,6 +88,10 @@ _Picture of developed, built, and operated drive unit test rig (Source: FZG)_
   -	Improved vibration behavior of planetary gearset by 14% through tooth geometry optimizations
   -	Improved gearset efficiency by 2.2% through mono-fluid approach (i.e., cooling or lubricating power electronics, electric motor, and gearset within a single circuit)
 
+![XXX](/assets/Campbell_plot.JPG)
+
+_Structure-borne sound measurement (Source: FZG)_
+
 **Published three research articles in the field of drive units**
   -	[Electric Drive Units: A Set-Up for Investigating Function, Efficiency, and Dynamics](https://doi.org/10.3390/vehicles6030067)
   -	[Numerical and experimental investigations on the vibration behavior of a high-speed planetary gearbox](https://doi.org/10.1007/s10010-024-00727-5)
