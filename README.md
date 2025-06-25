@@ -1,7 +1,10 @@
 ![XXX](/assets/2Q8A0107.JPG)
 
-<!-- # Summary -->
+# Summary
 <!-- A hands-on engineer with a deep understanding of engineering systems, focusing on powertrain development, manufacturing, and computational analysis. Leads a team at the Technical University of Munich (TUM), focusing on AI-powered drivetrain optimization and advanced system modeling. Brings 15+ years of CAE experience in CAD, FEA, MBS, and CFD, combined with strong hands-on manufacturing expertise in machining, welding, and quality management. Designed a next-generation drive unit increasing power density by 90%, along with a braking system for electric vehicles causing zero emissions. Extensive experience in test rig development as well as testing and validation. Recognized with multiple awards. Fluent in German and English. Strong project leadership and industry collaboration experience and proficient in Catia, MATLAB, and leading CAE tools. -->
+
+Experienced researcher and engineer with a strong background in automotive drive and brake systems, AI-based modeling, and project management. Proven ability to manage multiple and complex research projects, adept at
+collaborating across disciplines, skilled in agile methods and cross-functional coordination, experienced in automotive industry collaboration, and highly-motivated to improve the quality of human life.
 
 # Skills
 **Soft Skills**
@@ -13,55 +16,59 @@
 **Tools and Software**
   -	Coding: MATLAB/Simulink and Python
   -	CAE: CATIA, Solid Edge, Autodesk Inventor, ANSYS Mechanical, SIMPACK, and Simerics MP+
-  -	Machine Learning and Machine Vision: Tensorflow, scikit-learn, GPflow, and OpenCV
   -	Other: MS Office, JAMA, LaTeX, Git, NI LabVIEW, Mathcad, and FZG driveline simulation software
 
 **Industry-specific Experience**
-  - Advanced knowledge of mechanical systems with focus on automotive powertrains
-  - Consulting OEMs and suppliers on malfunction diagnostics and optimization of drive systems
-  -	Experience in manufacturing engineering (milling, turning, welding, sheet metal forming, etc.)
-  -	Acquisition of research funding in the field of drive technology
-  -	Mentoring students and teaching machine design
   -	15+ years of CAD, 3 years of FEA and MBS, 2 years of CFD experience
-  -	8+ years of experience in managing and conducting research projects
   -	8+ years of testing and validation experience within the automotive industry
+  -	8+ years of experience in managing and conducting research projects
   -	5 years of Machine Learning and Machine Vision experience
-  -	2 years of robotics experience
+  -	Advanced knowledge of mechanical systems with focus on automotive powertrains
+  - Consulting OEMs and suppliers on malfunction diagnostics and optimization of drive systems
+  -	Experience and training in manufacturing engineering
+  <!-- -	Acquisition of research funding in the field of drive technology -->
+  <!-- -	Mentoring students and teaching machine design -->
+
 
 # Awards and Recognitions
-  -	Hanns-Voith-Foundation Award (Drive Technology Category) - 2019
-  -	CTI Young Drive Experts Award - 2018
-  -	Winner SpaceX Hyperloop Pod Competition II (Los Angeles, CA) - 2017
-  -	Performance Scholarship, Technical University of Munich - 2016 and 2017
-  -	Performance Scholarship, Technical University of Vienna - 2013 and 2015
+  -	2019: Hanns-Voith-Foundation Award (Drive Technology Category)
+  -	2018: CTI Young Drive Experts Award
+  -	2017: Winner SpaceX Hyperloop Pod Competition II (Los Angeles, California, USA)
+  -	2016 and 2017: Performance Scholarship Technical University of Munich
+  -	2013 and 2015: Performance Scholarship Technical University of Vienna
 
 # Education
 **Doctor’s Degree in Drive Technology**<br>
 Gear Research Center (FZG), Munich, Germany (_2018 -- 2025_)<br>
-Doctoral examination on 30 June 2025; thesis on the efficiency of wet brake and clutch systems
+Doctoral examination in July 2025; Dissertation: Efficiency of wet brake and clutch systems
 
 **Master’s Degree in Mechanical Engineering**<br>
 Technical University of Munich (TUM), Munich, Germany (_2015 -- 2018_)<br>
-Graduated with high distinction; thesis on form-fit shift characterization using MBS 
+Graduated with high distinction; Master’s thesis: Multibody Simulation for Characterization of High-Dynamic Form-Fit Shifts of Alternative Shifting Elements for Automatic Transmissions
 
 **Bachelor's Degree in Mechanical Engineering**<br>
 Technical University of Vienna, Vienna, Austria (_2012 -- 2015_)<br>
-Graduated with distinction; thesis on an analytical approach for radial pumps in turbine operating mode
+Graduated with distinction; Bachelor’s thesis: An analytical approach for radial pumps in turbine operating mode
 
 **Technical College Degree in Automation Technology**<br>
 Technical College of Neufelden, Neufelden, Austria (_2006 -- 2011_)<br>
-Graduated with high distinction; final project on developing a pick-and-place robot (tripod)
+Graduated with high distinction; Diploma thesis: Development and programming of a pick-and-place robot
 
 # Professional Experience
 ## Experience in the Field of Drive Units
-![XXX](/assets/Rendering_drive_unit.png)
-
-_Rendering of developed drive unit (Source: FZG)_
 
 **Developed high-speed multi-speed drive unit with maximum motor speed of 50,000 rpm**
   -	Developed innovative drive unit architecture – including the motor, inverter, and gearset – leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
   -	Dimensioned and optimized gearset components (gears, rotating shafts, bearings, differential, and sealings)
   -	Partnered with 40+ experts in motor, inverter, and gearset technologies to achieve key project milestones
+
+![XXX](/assets/Rendering_drive_unit.png)
+
+_Rendering of developed drive unit (Source: FZG)_
+
+![XXX](/assets/Picture_drive_unit.jpg)
+
+_Picture of developed, built, and operated drive unit (Source: FZG)_
 
 **Developed test rig for investigating function, efficiency, and dynamics of drive units**
   -	Led a cross-functional team of 10 engineers and technicians (mechanical, software, electronics) to develop, design, manufacture, assembly, and operate test rig while meeting strict deadlines
@@ -70,6 +77,10 @@ _Rendering of developed drive unit (Source: FZG)_
   -	Designed a torque measurement system, saving ~$15,000 compared to traditional sensors
   -	Selected, installed, and calibrated instrumentations for data collection and testing such as thermocouples, strain gauges, and accelerometers
   -	Conducted risk assessments (FMEA) and implemented safety measures
+
+![XXX](/assets/Picture_drive_unit_test_rig.jpg)
+
+_Picture of developed, built, and operated drive unit test rig (Source: FZG)_
 
 **Conducted comprehensive test runs on function, efficiency, and dynamics**
   -	Developed test programs and procedures for investigating function, dynamics, and efficiency
@@ -82,16 +93,9 @@ _Rendering of developed drive unit (Source: FZG)_
   -	[Numerical and experimental investigations on the vibration behavior of a high-speed planetary gearbox](https://doi.org/10.1007/s10010-024-00727-5)
   -	[Efficiency Improvement Potential of a BEV Gearbox using a Mono Fluid Circuit](https://doi.org/10.51202/9783181024331-193)
 
-![XXX](/assets/Picture_drive_unit.jpg)
-
-_Picture of developed, built, and operated drive unit (Source: FZG)_
-
-![XXX](/assets/Picture_drive_unit_test_rig.jpg)
-
-_Picture of developed, built, and operated drive unit test rig (Source: FZG)_
 
 ## Experience in the Field of Wet Brake and Clutch Systems
-**Dimensioned wet brake system for electric vehicles to avoid brake dust emissions**
+**Dimensioned zero-emission brake system for electric vehicles to avoid brake dust emissions**
   -	Analyzed possible driveline topologies with focus on wet brakes 
   -	Dimensioned wet brake system integrated into drive unit avoiding brake dust emissions, requiring zero maintenance, and reducing unsprung wheel mass
   -	Conduced thermal and drag loss simulations
