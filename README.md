@@ -44,15 +44,15 @@ Doctoral examination in July 2025; Dissertation: Efficiency of wet brake and clu
 
 **Master’s Degree in Mechanical Engineering**<br>
 Technical University of Munich (TUM), Munich, Germany (_2015 -- 2018_)<br>
-Graduated with high distinction; Master’s thesis: Multibody Simulation for Characterization of High-Dynamic Form-Fit Shifts of Alternative Shifting Elements for Automatic Transmissions
+**Graduated with high distinction**; Master’s thesis: Multibody Simulation for Characterization of High-Dynamic Form-Fit Shifts of Alternative Shifting Elements for Automatic Transmissions
 
 **Bachelor's Degree in Mechanical Engineering**<br>
 Technical University of Vienna, Vienna, Austria (_2012 -- 2015_)<br>
-Graduated with distinction; Bachelor’s thesis: An analytical approach for radial pumps in turbine operating mode
+**Graduated with distinction**; Bachelor’s thesis: An analytical approach for radial pumps in turbine operating mode
 
 **Technical College Degree in Automation Technology**<br>
 Technical College of Neufelden, Neufelden, Austria (_2006 -- 2011_)<br>
-Graduated with high distinction; Diploma thesis: Development and programming of a pick-and-place robot
+**Graduated with high distinction**; Diploma thesis: Development and programming of a pick-and-place robot
 
 # Professional Experience
 ## Experience in the Field of Drive Units
