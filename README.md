@@ -108,9 +108,17 @@ _Structure-borne sound measurement (Source: FZG)_
   -	Selected, installed, and calibrated instrumentations for data collection and testing such as thermocouples and strain gauges
   -	Developed CFD model for time-efficient determination of oil distribution and drag torque
 
+![XXX](/assets/CFD.png)
+
+_CFD-simulated flow in disengaged brake (Source: Simerics/FZG)_
+
 **Developed software for fast drag loss prediction**
   -	Developed a software for OEMs and suppliers for wet brake drag loss prediction, cutting calculation time from 20 hours to split-seconds
   -	Programmed graphical user interface for user-oriented usage
+
+![XXX](/assets/GUI.png)
+
+_Screenshot of GUI (Source: FZG)_
 
 **Published seven research articles in the field of wet brake and clutch systems**
   -	[Experimental analysis of oil flow and drag torque generation in disengaged wet clutches](https://doi.org/10.1038/s41598-023-43695-6)
