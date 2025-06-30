@@ -40,7 +40,7 @@ collaborating across disciplines, skilled in agile methods and cross-functional 
 # Education
 **Doctor’s Degree in Drive Technology** (_2018 -- 2025_)<br>
 Gear Research Center (FZG), Munich, Germany<br>
-Doctoral examination in July 2025; Dissertation: Efficiency of wet brake and clutch systems
+Doctoral examination in September 2025; Dissertation: Efficiency of wet brake and clutch systems
 
 **Master’s Degree in Mechanical Engineering** (_2015 -- 2018_)<br>
 Technical University of Munich (TUM), Munich, Germany<br>
