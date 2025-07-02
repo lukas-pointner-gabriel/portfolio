@@ -20,6 +20,7 @@ collaborating across disciplines, skilled in agile methods and cross-functional 
 
 **Industry-specific Experience**
   -	15+ years of CAD, 3 years of FEA and MBS, 2 years of CFD experience
+  -	8+ years of designing and dimensioning geartrain components
   -	8+ years of testing and validation experience within the automotive industry
   -	8+ years of experience in managing and conducting research projects
   -	5 years of Machine Learning and Machine Vision experience
@@ -60,6 +61,7 @@ Technical College of Neufelden, Neufelden, Austria<br>
 **Developed high-speed multi-speed drive unit with maximum motor speed of 50,000 rpm**
   -	Developed innovative drive unit architecture – including the motor, inverter, and gearset – leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
   -	Dimensioned and optimized gearset components (gears, rotating shafts, bearings, differential, and sealings)
+  -	Managed packaging and mechanical integration of drive unit into prototype test vehicle
   -	Partnered with 40+ experts in motor, inverter, and gearset technologies to achieve key project milestones
 
 ![XXX](/assets/Rendering_drive_unit.png)
