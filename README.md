@@ -71,7 +71,7 @@ Technical College of Neufelden, Neufelden, Austria<br>
 _Rendering and picture of developed, built, and operated drive unit (Source: FZG)_
 
 **Developed test rig for investigating function, efficiency, and dynamics of drive units**
-  -	Led a cross-functional team of 10 engineers and technicians (mechanical, software, electronics) to develop, design, manufacture, assembly, and operate test rig while meeting strict deadlines
+  -	Led a cross-functional team of 10 engineers and technicians (mechanical, software, electronics) to develop, design, manufacture, assemble, and operate test rig while meeting strict deadlines
   -	Designed test rig for investigating drive units with up to 3000 Nm torque and 50,000 rpm motor speed – including mechanical setup, power supply, and lubrication and cooling system
   -	Conducted FEA and MBS to optimize mechanical test rig design
   -	Designed a torque measurement system, saving ~$15,000 compared to traditional sensors
