@@ -86,7 +86,7 @@ _Picture of developed, built, and operated drive unit test rig (Source: FZG)_
   -	Developed test programs and procedures for investigating function, dynamics, and efficiency
   -	Identified and resolved key failure modes in components resulting in enhanced reliability
   -	Improved vibration behavior of planetary gearset by 14% through tooth geometry optimizations
-  -	Improved gearset efficiency by 2.2% through mono-fluid approach (i.e., cooling or lubricating power electronics, electric motor, and gearset within a single circuit)
+  -	Improved efficiency of gearset by 2.2% through mono-fluid approach (i.e., cooling and lubricating inverter, motor, and gearset within a single circuit)
 
 ![XXX](/assets/Campbell_Plot.JPG)
 
