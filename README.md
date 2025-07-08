@@ -94,7 +94,7 @@ _Structure-borne sound measurement (Source: FZG)_
 **Published three research articles in the field of drive units**
   -	[Electric Drive Units: A Set-Up for Investigating Function, Efficiency, and Dynamics](https://doi.org/10.3390/vehicles6030067)
   -	[Numerical and experimental investigations on the vibration behavior of a high-speed planetary gearbox](https://doi.org/10.1007/s10010-024-00727-5)
-  -	[Efficiency Improvement Potential of a BEV Gearbox using a Mono Fluid Circuit](https://doi.org/10.51202/9783181024331-193)
+  -	[Efficiency Improvement Potential of a BEV Gearbox using a Mono Fluid Circuit](https://syncandshare.lrz.de/getlink/fiVr2pj5t62ZV3Vbf8DzBE/Efficiency%20Improvement%20Potential%20of%20a%20BEV%20Gearbox%20using%20a%20Mono%20Fluid%20Circuit.pdf)
 
 
 ## Experience in the Field of Wet Brake and Clutch Systems
