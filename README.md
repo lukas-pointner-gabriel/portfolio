@@ -3,8 +3,7 @@
 # Summary
 <!-- A hands-on engineer with a deep understanding of engineering systems, focusing on powertrain development, manufacturing, and computational analysis. Leads a team at the Technical University of Munich (TUM), focusing on AI-powered drivetrain optimization and advanced system modeling. Brings 15+ years of CAE experience in CAD, FEA, MBS, and CFD, combined with strong hands-on manufacturing expertise in machining, welding, and quality management. Designed a next-generation drive unit increasing power density by 90%, along with a braking system for electric vehicles causing zero emissions. Extensive experience in test rig development as well as testing and validation. Recognized with multiple awards. Fluent in German and English. Strong project leadership and industry collaboration experience and proficient in Catia, MATLAB, and leading CAE tools. -->
 
-Experienced researcher and engineer with a strong background in automotive drive and brake systems, AI-based modeling, and project management. Proven ability to manage multiple and complex research projects, adept at
-collaborating across disciplines, skilled in agile methods and cross-functional coordination, experienced in automotive industry collaboration, and highly-motivated to improve the quality of human life.
+Experienced researcher and hands-on engineer with a strong background in automotive drive and brake systems, AI-based modeling, and project management. Proven ability to manage multiple and complex research projects, adept at collaborating across disciplines, skilled in agile methods and cross-functional coordination, experienced in automotive industry collaboration, and highly-motivated to improve the quality of human life.
 
 # Skills
 **Soft Skills**
