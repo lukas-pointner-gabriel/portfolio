@@ -58,7 +58,7 @@ Technical College of Neufelden, Neufelden, Austria<br>
 ## Experience in the Field of Drive Units
 
 **Developed high-speed multi-speed drive unit with maximum motor speed of 50,000 rpm**
-  -	Developed innovative drive unit architecture – including the motor, inverter, and gearset – leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
+  -	Developed drive unit architecture – including the motor, inverter, and gearset – leading to a 90% increase in power density in comparison to BMW i3 reference drive unit
   -	Dimensioned and optimized gearset components (gears, rotating shafts, bearings, differential, and sealings)
   -	Managed packaging and mechanical integration of drive unit into prototype test vehicle
   -	Partnered with 40+ experts in motor, inverter, and gearset technologies to achieve key project milestones
